@@ -1,0 +1,247 @@
+/* montserrat-regular - latin */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    url('/fonts/Montserrat/montserrat-v14-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('/fonts/Montserrat/montserrat-v14-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+    url('/fonts/Montserrat/montserrat-v14-latin-regular.woff') format('woff'), /* Modern Browsers */
+    url('/fonts/Montserrat/montserrat-v14-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('/fonts/Montserrat/montserrat-v14-latin-regular.svg#Montserrat') format('svg'); /* Legacy iOS */
+}
+body{
+    overflow: auto !important;
+    font-family: Montserrat;
+}
+.mycontainer{
+    max-width:1170px;
+    margin: 0 auto;
+    padding: 0px 30px 0px 30px;
+}
+
+.menubar{
+    background-color:#314AC4 ;
+}
+.menuitems{
+    text-decoration: none;
+}
+.menuitems ul{
+    padding:30px 0px 0px 0px;
+    list-style:none;
+}
+.menuitems ul li {
+    font-size:20px;
+    color: #fff;
+}
+.menuitems ul li a{
+    text-decoration: none;
+    padding:0px 15px;
+    color: #ffffff;
+}
+
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+.menuitem{
+    color: #ffffff !important;
+    padding-left:15px;
+    text-align: right;
+    font-size:20px;
+}
+.nav-item a .menuitem:hover{
+    color: gray;
+
+}
+.appbanner{
+
+}
+.bannercontent{
+    background-color: #167C80;
+    height:680px;
+    width:40%;
+    padding: 0px 30px;
+    position: absolute;
+    border-radius:10px;
+    top: 30%;
+}
+.fdfdfdf{
+    background-color: #167C80;
+    border-radius:10px;
+
+}
+.coronanews{
+    /*max-width: 50%;*/
+    /*float: right;*/
+    /*margin-left:2%;*/
+}
+
+@media only screen and (max-width:1024px) {
+    .menulist {
+        margin-left:18%;
+    }
+    .bannercontent{
+        width: 50%;
+    }
+    .coronanews{
+        max-width:40%;
+    }
+}
+@media only screen and (min-width:1360px) {
+    .menulist {
+        margin-left:18%;
+    }
+    .bannercontent{
+        width:40%;
+    }
+    .coronanews{
+        max-width:35%;
+    }
+}
+
+.bannerbtn{
+    text-decoration: none;
+}
+
+
+blockquote {
+    font-family: Georgia, serif;
+    position: relative;
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;
+    color: #BFBFBF;
+
+
+}
+
+blockquote:before {
+    font-family: Georgia, serif;
+    position: absolute;
+    font-size: 6em;
+    line-height: 1;
+    top: 0;
+    left: 0;
+    content: "\201C";
+    color: #BFBFBF;
+
+}
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+    float:left;
+    font-size:6em;
+    line-height: 1;
+    left:0;
+    bottom:-0.5em;
+    content: "\201D";
+
+}
+blockquote cite:before {
+    content: "\2013";
+}
+.storywatch{
+    color: #707070;
+    border-radius:8px;
+    border:1px solid #707070;
+    padding: 14px 14px;
+    background-color: #ffffff;
+    font-size: 20px;
+
+}
+.checked{
+    color:#707070;
+}
+.foterelement{
+    background-image: url("../img/worldmap.png");
+    background-position:center;
+    background-size:70%;
+    background-repeat: no-repeat;
+    padding-top:100px;
+    padding-bottom:80px;
+    color: #ffffff;
+    background-position-x:50%;
+    background-position-y:200px;
+
+}
+.footer{
+    background-color: #314AC4;
+}
+.socialicon{
+    padding: 10px 5px;
+    font-size:30px;
+    font-family: Montserrat;
+    font-weight: bold;
+
+}
+.language{
+    background-color: #314AC4;
+    height: 100vh;
+}
+
+.languagecontent{
+    background-image: url("../img/worldmap.png");
+    background-position:center;
+    background-size: cover;
+    padding-top:80px;
+    color: #ffffff;
+
+
+}
+.page {
+    position: relative;
+    width: 100%;
+    font-family: Roboto;
+}
+
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.simple-carousel {
+    position: relative;
+    width: 100%;
+    cursor: grab;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+
+.simple-carousel-inner {
+    position: relative;
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+.simple-carousel-inner::-webkit-scrollbar {
+    display: none;
+}
+
+.simple-carousel-inner .item {
+    min-width: 320px;
+    padding-right: 20px;
+}
+
+.simple-carousel-inner .image {
+    position: relative;
+    overflow: hidden;
+}
+
+.simple-carousel-inner .item img {
+    width: 100%;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    pointer-events: none;
+}
