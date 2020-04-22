@@ -116,6 +116,7 @@ blockquote {
     margin: 0.5em;
     padding: 0.5em 2em 0.5em 3em;
     color: #BFBFBF;
+    margin-top:23px;
 
 
 }
@@ -186,13 +187,14 @@ blockquote cite:before {
 
 .languagecontent{
     background-image: url("../img/worldmap.png");
-    background-position:center;
-    background-size: cover;
+    background-position:top;
+    background-size:cover;
+    background-repeat: no-repeat;
     padding-top:80px;
     color: #ffffff;
-    background-position-y: 300px;
-    background-repeat: no-repeat;
+    background-position-y:300px;
 }
+
 .page {
     position: relative;
     width: 100%;
@@ -219,7 +221,6 @@ blockquote cite:before {
     display: flex;
     overflow-y: hidden;
     overflow-x: scroll;
-
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
@@ -245,3 +246,4 @@ blockquote cite:before {
     user-select: none;
     pointer-events: none;
 }
+
