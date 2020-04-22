@@ -190,8 +190,8 @@ blockquote cite:before {
     background-size: cover;
     padding-top:80px;
     color: #ffffff;
-
-
+    background-position-y: 300px;
+    background-repeat: no-repeat;
 }
 .page {
     position: relative;

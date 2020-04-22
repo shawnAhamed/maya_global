@@ -113,14 +113,14 @@
     <div class="mycontainer">
         <div class="row">
             <div class="col-sm-6">
-                <img src="../img/students.png" class="img-fluid">
+                <img src="../img/students.png" class="img-fluid" style="">
             </div>
             <div class="col-sm-6">
                 <blockquote>
                     <p style="font-size: 40px;font-family: Montserrat;color: #363636;margin-left:-11%;"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
                 </blockquote>
                 <p style="font-size: 20px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin<br>Rajbari Govt College, Bangladesh <br><br></p>
-                <a class="storywatch" style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/icon_play.png" style="padding-left:10px;padding-right:10px">Watch the Story</a>
+                <a class="storywatch" style="text-decoration: none;padding-left:10px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding-left:10px;padding-right:10px">Watch the Story</a>
             </div>
 
         </div>
@@ -139,23 +139,23 @@
                     <div class="simple-carousel-inner">
                         <div class="item">
                             <div class="image">
-                                <img src="https://i.imgur.com/8mmpctY.png" alt="">
+                                <img src="https://i.imgur.com/0SphqGc.png" alt="" style="border-radius:5px">
                             </div>
                         </div>
                         <div class="item">
                             <div class="image">
-                                <img src="https://i.imgur.com/8mmpctY.png" alt="">
+                                <img src="https://i.imgur.com/8mmpctY.png" alt="" style="border-radius:5px">
                             </div>
                         </div>
 
                         <div class="item">
                             <div class="image">
-                                <img src="https://i.imgur.com/8mmpctY.png" alt="">
+                                <img src="https://i.imgur.com/Krzi3yx.png" alt="" style="border-radius:5px">
                             </div>
                         </div>
                         <div class="item">
                             <div class="image">
-                                <img src="https://i.imgur.com/8mmpctY.png" alt="">
+                                <img src="https://i.imgur.com/5DOSV5T.png" alt="" style="border-radius:5px">
                             </div>
                         </div>
                     </div>

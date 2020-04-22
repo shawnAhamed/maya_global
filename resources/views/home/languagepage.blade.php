@@ -6,18 +6,19 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
     <title>Maya || Wellbeing Assistant</title>
 </head>
 <body>
 
-<section class="language text-center">
+<section class="language text-center languagecontent">
     <div class="row">
-        <div class="col-md-12 languagecontent">
+        <div class="col-md-12 ">
             <img src="../img/logolang.png" width="280" height="135" class="" alt="Maya">
 
             <div class="row justify-content-md-center" style="margin-top:50px">
                 <div class="col-md-2"style="border-bottom:1px dotted #fff;">
-                    <a href="/" style="color: #ffffff;text-decoration: none">  <p style="text-align: left;font-family: 'Noto Sans Bengali';font-size: 40px;">বাংলা</p></a>
+                    <a href="/" style="color: #ffffff;text-decoration: none">  <p style="text-align: left;font-family: 'Noto Sans';font-size: 40px;">বাংলা</p></a>
                 </div>
 
                <div class="col-md-2 " style="border-bottom:1px dotted #fff;margin-left: 30px">
@@ -27,7 +28,7 @@
             </div>
             <div class="row justify-content-md-center" style="margin-top: 30px">
                 <div class="col-md-2 col-md-off" style="border-bottom:1px dotted #fff;">
-                    <a href="/" style="color: #ffffff;text-decoration: none"><p style="text-align: left;font-size: 40px">English</p><a/>
+                    <a href="/" style="color: #ffffff;text-decoration: none"><p style="text-align: left;font-size: 40px">English</p></a>
                 </div>
                 <div class="col-md-2 " style="border-bottom:1px dotted #fff; margin-left: 30px">
                     <a href="/" style="color: #ffffff;text-decoration: none">   <p style="text-align: right;font-family: Noto Nastaliq Urdu;font-size: 40px">اُردُو</p></a>
