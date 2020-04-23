@@ -17,7 +17,7 @@
                 <img src="../img/banner.png" style="height:650px;width:78%;margin-left:21%">
             </div>
             <div class="col-sm-6">
-                <div class="fdfdfdf" style="position: relative;top:-88%;padding-bottom: 30px;height:680px;">
+                <div class="fdfdfdf" style="position: relative;top:-88%;padding-bottom: 30px;height:680px;padding:40px 40px">
                     <h1 style="font-size:70px;line-height:87px;color: #fff;padding: 30px;">Everyone’s well-being assistant.</h1>
                     <p style="font-size:27px;line-height:32px;color: #fff;padding: 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                     <div style="padding: 30px">
@@ -177,8 +177,8 @@
             <span class="fa fa-linkedin-square socialicon" style="font-size: 20px;font-weight:bold"></span>
 
             <p class="" style="font-size: 14px;font-family: 'Montserrat',medium;">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
-            <p class="" style="font-size: 14px;font-family: 'Montserrat', light;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
-            <p class="" style="font-size:20px;font-family: 'Montserrat', light;">Maya is built with love at Dhaka, Bangladesh.</p>
+            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
+            <p class="" style="font-size:20px;font-family: 'Montserrat';font-weight: 300">Maya is built with love at Dhaka, Bangladesh.</p>
         </div>
 
     </div>
