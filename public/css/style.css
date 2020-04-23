@@ -47,7 +47,7 @@ body{
 }
 
 .active {
-    background-color: #4CAF50;
+    font-weight: bold;
 }
 .menuitem{
     color: #ffffff !important;
@@ -111,13 +111,12 @@ body{
 
 
 blockquote {
-    font-family: Georgia, serif;
+    font-family: Georgia;
     position: relative;
     margin: 0.5em;
     padding: 0.5em 2em 0.5em 3em;
     color: #BFBFBF;
     margin-top:23px;
-
 
 }
 

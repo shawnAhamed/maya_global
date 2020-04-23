@@ -17,7 +17,7 @@
                 <img src="../img/banner.png" style="height:650px;width:78%;margin-left:21%">
             </div>
             <div class="col-sm-6">
-                <div class="fdfdfdf" style="position: relative;top:-88%;padding-bottom: 30px;height:680px;padding:40px 40px">
+                <div class="fdfdfdf" style="position: relative;top:-88%;height:680px;padding:40px 40px">
                     <h1 style="font-size:70px;line-height:87px;color: #fff;padding: 30px;">Everyone’s well-being assistant.</h1>
                     <p style="font-size:27px;line-height:32px;color: #fff;padding: 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                     <div style="padding: 30px">
@@ -80,16 +80,16 @@
 </section>
 
 
-<section class="appshow" style="padding: 0px 30px;margin-top: 30px;background-color: #F0F0F0;max-height:1020px">
+<section class="appshow" style="padding:80px 30px;margin-top: 30px;background-color: #F0F0F0;max-height:1020px">
     <div class="mycontainer">
         <div class="row">
             <div class="col-sm-6">
-                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;padding:80px 80px">
+                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;padding: 0px 40px">
             </div>
-            <div class="col-sm-6" style="padding:0px 15px">
-                <h1 style="font-size:40px;color:#314AC4;padding-top:80px">All in one app and it’s simple!</h1>
+            <div class="col-sm-6" style="padding:0px 0px">
+                <h1 style="font-size:64px;line-height:78px;color:#314AC4;padding:20px 0px;font-weight:500">All in one app and it’s simple!</h1>
                 <hr style="border: 1px dotted #707070;">
-                <p style="font-size:23px;">3 million monthly active users</p>
+                <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>
                 <span class="fa fa-star checked"></span>
                 <span class="fa fa-star checked"></span>
                 <span class="fa fa-star checked"></span>
@@ -97,9 +97,9 @@
                 <span class="fa fa-star-half-o" style="color: #707070;"></span>
                 <span style="padding-left: 10px">4.6 Overall rating</span>
                 <hr style="border: 1px dotted #707070;">
-                <p style="color: #363636;font-size: 30px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
+                <p style="color: #363636;font-size: 30px;font-weight: 400;padding:20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
                 <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px"></a>
-                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px"></a>
+                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px"></a><br>
                 <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top: 20px">
             </div>
         </div>
@@ -109,7 +109,7 @@
 </section>
 
 
-<section class="story" style="margin-top:30px;padding: 30px 30px">
+<section class="story" style="margin-top:30px;padding:0px 0px">
     <div class="mycontainer">
         <div class="row">
             <div class="col-sm-6">
@@ -117,7 +117,7 @@
             </div>
             <div class="col-sm-6">
                 <blockquote>
-                    <p style="font-size: 40px;font-family: Montserrat;color: #363636;margin-left:-11%;"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
+                    <p style="font-size: 40px;font-family: Montserrat;color: #363636;margin-left:-11%;font-weight: 300"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
                 </blockquote>
                 <p style="font-size: 20px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin<br>Rajbari Govt College, Bangladesh <br><br></p>
                 <a class="storywatch" style="text-decoration: none;padding-left:10px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding-left:10px;padding-right:10px">Watch the Story</a>
