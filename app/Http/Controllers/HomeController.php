@@ -10,26 +10,28 @@ class HomeController extends Controller
         if (!empty($_SERVER['HTTP_CLIENT_IP']))
         {
             $ip_address = $_SERVER['HTTP_CLIENT_IP'];
-            dd($ip_address);
         }
         elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
         {
             $ip_address = $_SERVER['HTTP_X_FORWARDED_FOR'];
-            dd($ip_address);
         }
         else
         {
             $ip_address = $_SERVER['REMOTE_ADDR'];
-            dd($ip_address);
         }
-//        $real_ip_adress="42.0.7.248";
-//
-//        $cip = $real_ip_adress;
-//        $iptolocation = 'http://www.geoplugin.net/xml.gp?ip=' . $cip;
-//        $creatorlocation = file_get_contents($iptolocation);
-//        dd($creatorlocation);
+        $json       = file_get_contents("http://ipinfo.io/$ip_address");
+        $details    = json_decode($json);
 
+        if(isset($details->country)){
+            $country =$details->country;
 
+            if($country=="BD"){
+                session()->put('locale', 'bn');
+            }
+            else{
+                session()->put('locale', 'en');
+            }
+        }
         return view('home.index');
     }
 
