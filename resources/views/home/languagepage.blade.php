@@ -18,7 +18,7 @@
 
             <div class="row justify-content-md-center" style="margin-top:50px">
                 <div class="col-md-2"style="border-bottom:1px dotted #fff;">
-                    <a href="/" style="color: #ffffff;text-decoration: none">  <p style="text-align: left;font-family: 'Noto Sans';font-size: 40px;">বাংলা</p></a>
+                    <a href="/_bn" style="color: #ffffff;text-decoration: none">  <p style="text-align: left;font-family: 'Noto Sans';font-size: 40px;">বাংলা</p></a>
                 </div>
 
                <div class="col-md-2 " style="border-bottom:1px dotted #fff;margin-left: 30px">
@@ -28,7 +28,7 @@
             </div>
             <div class="row justify-content-md-center" style="margin-top: 30px">
                 <div class="col-md-2 col-md-off" style="border-bottom:1px dotted #fff;">
-                    <a href="/" style="color: #ffffff;text-decoration: none"><p style="text-align: left;font-size: 40px">English</p></a>
+                    <a href="/_en" style="color: #ffffff;text-decoration: none"><p style="text-align: left;font-size: 40px">English</p></a>
                 </div>
                 <div class="col-md-2 " style="border-bottom:1px dotted #fff; margin-left: 30px">
                     <a href="/" style="color: #ffffff;text-decoration: none">   <p style="text-align: right;font-family: Noto Nastaliq Urdu;font-size: 40px">اُردُو</p></a>
