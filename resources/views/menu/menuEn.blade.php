@@ -9,7 +9,7 @@
             <div class="col-sm-9 menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
-                        <a class="anchor active" href="#" onclick="myFunction()">Home <span class="sr-only">(current)</span></a>
+                        <a class="anchor active" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="#">Services</a>
@@ -36,20 +36,5 @@
 
 
 <script>
-    $(function () {
-        setNavigation();
-    });
 
-    function setNavigation() {
-        var path = window.location.pathname;
-        path = path.replace(/\/$/, "");
-        path = decodeURIComponent(path);
-
-        $(".nav a").each(function () {
-            var href = $(this).attr('href');
-            if (path.substring(0, href.length) === href) {
-                $(this).closest('li').addClass('active');
-            }
-        });
-    }
 </script>
