@@ -12,7 +12,7 @@
                         <a class="anchor active" href="#">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">Services</a>
+                        <a class="anchor" href="/srv">Services</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="#">About</a>

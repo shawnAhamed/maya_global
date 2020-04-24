@@ -15,12 +15,46 @@ class Setlocal
      */
     public function handle($request, Closure $next)
     {
-        if(empty(session()->get('locale'))) {
-            session()->put('locale', 'en');
+
+        if (!empty($_SERVER['HTTP_CLIENT_IP']))
+        {
+            $ip_address = $_SERVER['HTTP_CLIENT_IP'];
+        }
+        elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
+        {
+            $ip_address = $_SERVER['HTTP_X_FORWARDED_FOR'];
+        }
+        else
+        {
+            $ip_address = $_SERVER['REMOTE_ADDR'];
+        }
+
+        $json       = file_get_contents("http://ipinfo.io/$ip_address");
+        $details    = json_decode($json);
+
+        if(isset($details->country)){
+            $country =$details->country;
+            if($country =="BD"){
+                App::setlocale('bn');
+                session()->put('locale', 'bn');
+            }
+            else{
+
+                App::setlocale('en');
+            }
         }
 
 
-        app()->setLocale(session()->$request->session()->get('locale'));
+        $session=session()->get('locale');
+        if($session=="en"){
+        \App::setlocale('en');
+        }
+        elseif($session=="bn"){
+            \App::setlocale('bn');
+        }
+        else{
+            \App::setlocale('en');
+        }
         return $next($request);
     }
 }

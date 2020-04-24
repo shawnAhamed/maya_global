@@ -13,7 +13,9 @@ return [
     |
     */
 
-    'failed' => 'fall_en',
+    "homePage"=>[
+        'bannertext'=>'Everyone’s well-being assistant.',
+    ]
 
 
 ];

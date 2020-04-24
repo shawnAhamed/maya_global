@@ -12,8 +12,9 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-
-    'failed' => 'fallbn',
+    "homePage"=>[
+        'bannertext'=>'সবার জন্য ভালো থাকার সহকারী',
+    ]
 
 
 ];

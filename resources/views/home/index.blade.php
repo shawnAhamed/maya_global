@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ app()->getLocale() }}">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,20 +12,6 @@
 @include('menu.menuEn')
 
 
-@if(!empty(session()->get('locale')))
-    @if(session()->get('locale') == 'en')
-        <p>en</p>
-    @else
-        <p>bn</p>
-    @endif
-@else
-    <p>en</p>
-@endif
-
-<p>{{trans('maya.failed')}}</p>
-
-
-
 <section class="bannersection" style="margin-top:30px">
     <div class="mycontainer" style="">
         <div class="row">
@@ -34,7 +20,7 @@
             </div>
             <div class="col-sm-6">
                 <div class="fdfdfdf" style="position: relative;top:-88%;height:680px;padding:40px 40px">
-                    <h1 style="font-size:70px;line-height:87px;color: #fff;padding: 30px;">Everyone’s well-being assistant.</h1>
+                    <h1 style="font-size:70px;line-height:87px;color: #fff;padding: 30px;">{{trans('maya.homePage.bannertext')}}</h1>
                     <p style="font-size:27px;line-height:32px;color: #fff;padding: 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                     <div style="padding: 30px">
                         <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color: #363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
