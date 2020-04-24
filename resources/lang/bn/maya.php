@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'fall bn',
-    'throttle' => 'Too many login attempts. Please tr',
+    'failed' => 'fallbn',
+
 
 ];

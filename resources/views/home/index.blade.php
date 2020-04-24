@@ -12,18 +12,17 @@
 @include('menu.menuEn')
 
 
-{{--@if(!empty(session()->get('locale')))--}}
-{{--    @if(session()->get('locale') == 'en')--}}
-{{--        <p>en</p>--}}
-{{--    @else--}}
-{{--        <p>bn</p>--}}
-{{--    @endif--}}
-{{--@else--}}
-{{--    <p>en</p>--}}
-{{--@endif--}}
+@if(!empty(session()->get('locale')))
+    @if(session()->get('locale') == 'en')
+        <p>en</p>
+    @else
+        <p>bn</p>
+    @endif
+@else
+    <p>en</p>
+@endif
 
-{{--<p>{{ __('auth.failed') }}</p>--}}
-{{--<p>{{trans('maya.failed')}}</p>--}}
+<p>{{trans('maya.failed')}}</p>
 
 
 
