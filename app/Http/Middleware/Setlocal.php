@@ -35,12 +35,12 @@ class Setlocal
         if(isset($details->country)){
             $country =$details->country;
             if($country =="BD"){
-                App::setlocale('bn');
+                \App::setlocale('bn');
                 session()->put('locale', 'bn');
             }
             else{
 
-                App::setlocale('en');
+                \App::setlocale('en');
             }
         }
 
