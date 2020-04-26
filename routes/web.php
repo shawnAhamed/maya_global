@@ -11,9 +11,15 @@
 |
 */
 
+
+
+
 Route::get('/','HomeController@index');
-Route::get('/expert','HomeController@expert');
-Route::get('/srv','HomeController@index2');
-Route::get('/lang','HomeController@changelanguage');
-Route::get('/{ln}','HomeController@languagechagnge_to');
+Route::get('/en','HomeController@index');
+Route::get('expert','HomeController@expert');
+
+
+
+Route::get('/bn','BnsiteController@index');
+Route::get('bn/expert','BnsiteController@expert');
 

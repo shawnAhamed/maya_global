@@ -9,7 +9,7 @@
     <title>Maya || Wellbeing Assistant</title>
 
 </head>
-<body>
+<body style="font-family: Montserrat;">
 <section class="menubar">
     <div class="mycontainer">
         <div class="logodiv">
@@ -19,7 +19,7 @@
             <div class="menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
-                        <a class="anchor active" href="/">Home <span class="sr-only">(current)</span></a>
+                        <a class="anchor active" href="/">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="#">Coronavirus</a>
@@ -40,13 +40,13 @@
                         <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
                         <div>
                             <div style="height: 10px"></div>
-                        <div class="dropdown-content" >
-                            <a href="#" style="font-size: 16px;color: #363636;padding:15px 20px 0px 0px;font-family:Hind Siliguri">বাংলা</a>
-                            <hr style="width: 110px">
-                            <a href="#" style="font-size: 16px;color: #363636;font-weight: bold;padding:0px 20px 0px 0px">English</a>
-                            <hr style="width: 110px">
-                            <a href="#"  style="font-size: 12px;color: #363636;padding:0px 15px 15px 0px">Learn more about how we are expanding!</a>
-                        </div>
+                            <div class="dropdown-content" >
+                                <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 0px 0px;font-family:Hind Siliguri">বাংলা</a>
+                                <hr style="width: 110px">
+                                <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:0px 20px 0px 0px">English</a>
+                                <hr style="width: 110px">
+                                <a href="#"  style="font-size: 12px;color: #363636;padding:10px 15px 15px 10px;margin-bottom: 20px">Learn more about how we are expanding!</a>
+                            </div>
                         </div>
                     </li>
                 </ul>
@@ -64,9 +64,9 @@
             <div class="" style="height:680px;padding:20px 30px;width:570px;">
                 <h1 style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</h1>
                 <p style="font-size:30px;line-height:37px;color: #fff;padding:20px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
-                <div style="padding:40px 30px">
-                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color: #363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
-                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color: #ffffff;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
+                <div style="padding:20px 30px">
+                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
+                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
                 </div>
             </div>
 
@@ -90,8 +90,8 @@
             <div class="thumbnail text-center">
                 <img src="../img/icon/btrfly.png" alt="" style="height: 72px">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;padding-top:10px">Maya Bot</p>
-                    <h6 style="font-size:40px;color: #363636;">7,000,000</h6>
+                    <p style="font-size:20px;color: #363636;">Maya Bot</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px">7,000,000</p>
                     <p style="font-size:16px;color: #363636">Instant interactions with Maya bot in a month, in 4 languages.</p>
                 </div>
             </div>
@@ -100,8 +100,8 @@
             <div class="thumbnail text-center">
                 <img src="../img/icon/qa.png" alt="" style="height: 72px">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;padding-top:10px">Expert Answers</p>
-                    <h6 style="font-size:40px;color: #363636;">200,000</h6>
+                    <p style="font-size:20px;color: #363636;">Expert Answers</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px">200,000</p>
                     <p style="font-size:16px;color: #363636">Expert answers per month on physical and mental health.</p>
                 </div>
             </div>
@@ -110,8 +110,8 @@
             <div class="thumbnail text-center">
                 <img src="../img/icon/health.png" alt="" style="height: 72px">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;padding-top:10px">People Served</p>
-                    <h6 style="font-size:40px;color: #363636">10,200,000</h6>
+                    <p style="font-size:20px;color: #363636;">People Served</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px">10,200,000</p>
                     <p style="font-size:16px;color: #363636">Since the inception, Maya is tirelessly serving its users.</p>
                 </div>
             </div>
@@ -124,12 +124,12 @@
 
 <section class="appshow" style="padding:80px 0px;margin-top: 30px;background-color: #F0F0F0;">
     <div class="mycontainer">
-        <div class="row">
+        <div class="" style="height:1020px">
             <div class="mobilebanner text-center">
-                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;">
+                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
             </div>
-            <div class="mobilebannercnt" style="margin-top:10px">
-                <h1 style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:36px 0px;">All in one app and it’s simple!</h1>
+            <div class="mobilebannercnt" style="margin-top:80px">
+                <p style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:40px 0px;">All in one app and it’s simple!</p>
                 <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                 <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>
                 <span class="fa fa-star checked"></span>
@@ -137,7 +137,7 @@
                 <span class="fa fa-star checked"></span>
                 <span class="fa fa-star checked"></span>
                 <span class="fa fa-star-half-o" style="color: #707070;"></span>
-                <span style="padding-left: 10px">4.6 Overall rating</span>
+                <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:24px">4.6 Overall rating</span>
                 <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                 <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
                 <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px"></a>
@@ -161,15 +161,15 @@
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">
-                <blockquote>
-                    <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
-                </blockquote>
-                <div style="margin-left:10px">
-                    <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin</p>
-                    <p style="font-size: 20px;font-family: Montserrat;color: #363636;">Rajbari Govt College, Bangladesh <br><br></p>
-                    <a class="storywatch" style="text-decoration: none;padding-left:10px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding-left:10px;padding-right:10px">Watch the Story</a>
+                    <blockquote>
+                        <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
+                    </blockquote>
+                    <div style="margin-left:10px">
+                        <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Rajbari Govt College, Bangladesh </span></p>
+                       <br>
+                        <a class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</a>
 
-                </div>
+                    </div>
                 </div>
             </div>
 
@@ -224,7 +224,7 @@
             <span class="fa fa-instagram socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
             <span class="fa fa-linkedin-square socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
 
-            <p class="" style="font-size: 14px;font-family: 'Montserrat',medium;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
+            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
             <p class="" style="font-size:20px;font-family: 'Montserrat';font-weight: 300">Maya is built with love at Dhaka, Bangladesh.</p>
         </div>

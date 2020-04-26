@@ -10,37 +10,11 @@ use Illuminate\Support\Facades\Session;
 class HomeController extends Controller
 {
     public function index(){
-        return view('home.index');
-    }
-
-
-    public function changelanguage(){
-
-        return view('home.languagepage');
-
+        return view('en.index');
     }
 
     public function expert(){
-        return view('expert.expert');
+        return view('en.expert');
     }
-
-//    public function languagechagnge_to($ln){
-//
-//        if($ln=="_bn"){
-//            session()->put('locale', 'bn');
-//        }
-//        if($ln=="_en"){
-//            session()->put('locale', 'en');
-//        }
-//        return redirect('/');
-//
-//    }
-
-
-
-
-
-
-
 
 }
