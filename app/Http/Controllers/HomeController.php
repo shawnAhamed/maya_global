@@ -14,28 +14,33 @@ class HomeController extends Controller
     }
 
 
-    public function index2(){
-        dd(app()->getLocale());
-
-        return view('home.services');
-    }
     public function changelanguage(){
 
         return view('home.languagepage');
 
     }
 
-    public function languagechagnge_to($ln){
-
-        if($ln=="_bn"){
-            session()->put('locale', 'bn');
-        }
-        if($ln=="_en"){
-            session()->put('locale', 'en');
-        }
-        return redirect('/');
-
+    public function expert(){
+        return view('expert.expert');
     }
+
+//    public function languagechagnge_to($ln){
+//
+//        if($ln=="_bn"){
+//            session()->put('locale', 'bn');
+//        }
+//        if($ln=="_en"){
+//            session()->put('locale', 'en');
+//        }
+//        return redirect('/');
+//
+//    }
+
+
+
+
+
+
 
 
 }
