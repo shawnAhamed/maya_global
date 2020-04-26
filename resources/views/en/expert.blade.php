@@ -68,7 +68,7 @@
     <div class="mycontainer">
         <hr style="border: transparent;border-bottom: 1px dashed #707070;margin-top: 40px;">
         <div style="height: 296px;margin-top:40px;">
-            <div class="expertofc text-center">
+            <div class="expertofc ">
                 <p style="font-size: 30px;line-height:36px;color: #707070;">Our office is much like a sunflower. A sunflower reminds us of hope, faith, unity and happiness. Every morning we come to work with hope and work together in faith to spread the message of happiness among the people around us.</p>
 
 

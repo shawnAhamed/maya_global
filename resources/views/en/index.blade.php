@@ -61,9 +61,9 @@
             <img src="../img/banner.png" style="height:650px;width:970px;margin-left:200px;margin-top: 30px;">
         </div>
         <div class="bannercontent">
-            <div class="" style="height:680px;padding:20px 30px;width:570px;">
+            <div class="" style="height:680px;padding:30px 30px;width:570px;">
                 <h1 style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</h1>
-                <p style="font-size:30px;line-height:37px;color: #fff;padding:20px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
+                <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                 <div style="padding:20px 30px">
                     <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
                     <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
@@ -140,9 +140,9 @@
                 <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:24px">4.6 Overall rating</span>
                 <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                 <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
-                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px"></a>
-                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px"></a><br>
-                <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:18px">
+                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a>
+                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
+                <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:20px">
             </div>
         </div>
 

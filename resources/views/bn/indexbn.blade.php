@@ -61,10 +61,10 @@
             <img src="../img/banner.png" style="height:650px;width:970px;margin-left:200px;margin-top: 30px;">
         </div>
         <div class="bannercontent">
-            <div class="" style="height:680px;padding:20px 30px;width:570px;">
+            <div class="" style="height:680px;padding:30px 30px;width:570px;">
                 <h1 style="font-size:80px;font-weight:bold;line-height:90px;color: #fff;padding:20px 30px;">সবার জন্য ভালো থাকার সহকারী</h1>
-                <p style="font-size:30px;line-height:36px;color: #fff;padding:20px 30px">পরিচয় গোপন রেখে শারীরিক ও মানসিক সমস্যা নিয়ে প্রশ্ন করুন, বিশেষজ্ঞের পরামর্শ নিন।</p>
-                <div style="padding:40px 30px">
+                <p style="font-size:30px;line-height:36px;color: #fff;padding:27px 30px">পরিচয় গোপন রেখে শারীরিক ও মানসিক সমস্যা নিয়ে প্রশ্ন করুন, বিশেষজ্ঞের পরামর্শ নিন।</p>
+                <div style="padding:43px 30px">
                     <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">অ্যাপ ডাউনলোড</a>
                     <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">আমাদের সেবাসমূহ</a>
                 </div>
@@ -140,9 +140,9 @@
                 <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:32px">৪.৬ সামগ্রিক রেটিং</span>
                 <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                 <p style="color: #363636;font-size: 30px;line-height:36px;font-weight: 400;padding: 20px 0px;">মায়া উন্নয়নশীল দেশগুলোতে বিশেষজ্ঞ পরামর্শ গ্রহণের প্রক্রিয়াকে সহজ করার চেষ্টা করছে। এন্ড্রোয়েড, আইওএস, ওয়েব এবং ফ্রি বেসিক  এই সব মাধ্যমে আপনারা আমাদের সেবা গ্রহণ করতে পারেন।</p>
-                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px"></a>
-                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px"></a><br>
-                <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:18px">
+                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a>
+                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a><br>
+                <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:40px">
             </div>
         </div>
 
