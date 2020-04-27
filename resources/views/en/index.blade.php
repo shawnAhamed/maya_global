@@ -11,11 +11,10 @@
 
 </head>
 <body style="font-family: 'Montserrat', sans-serif;">
-<div style="background-color:#314AC4;width: 100%">
+
 <section class="menubar">
-
-
     <div class="mycontainer">
+        <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
             <a href="/"><img src="../img/logo.png" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
@@ -57,9 +56,10 @@
             </div>
         </div>
     </div>
+    </div>
 
 </section>
-</div>
+
 
 <section class="banner">
     <div class="mycontainer">
@@ -70,9 +70,9 @@
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
                 <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</p>
                 <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
-                <div style="padding:20px 30px">
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
+                <div style="padding:15px 30px">
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Download App</a>
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
                 </div>
             </div>
 
@@ -129,8 +129,8 @@
 
 
 <section class="appshow" style="padding:80px 0px;margin-top: 30px;background-color: #F0F0F0;">
-    <div class="mycontainer">
         <div class="" style="height:1020px;background-color:#F0F0F0" >
+            <div class="mycontainer">
             <div class="mobilebanner text-center">
                 <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
             </div>
@@ -224,11 +224,11 @@
 <section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
-            <span class="fa fa-facebook-square socialicon" style="font-size:20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-google socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-twitter socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-instagram socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-linkedin-square socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
+            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
 
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>

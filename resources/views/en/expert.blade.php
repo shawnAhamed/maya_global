@@ -12,6 +12,7 @@
 <body style="font-family: Montserrat;">
 <section class="menubar">
     <div class="mycontainer">
+        <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
             <a href="/"><img src="../img/logo.png" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
@@ -52,6 +53,7 @@
                 </ul>
             </div>
         </div>
+    </div>
     </div>
 </section>
 
@@ -177,22 +179,21 @@
 
 
 
-<section class="footer text-center" style="">
-    <div class="mycontainer">
+<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+    <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
-            <span class="fa fa-facebook-square socialicon" style="font-size:20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-google socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-twitter socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-instagram socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-linkedin-square socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
+            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
 
-            <p class="" style="font-size: 14px;font-family: 'Montserrat',medium;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
+            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
             <p class="" style="font-size:20px;font-family: 'Montserrat';font-weight: 300">Maya is built with love at Dhaka, Bangladesh.</p>
         </div>
     </div>
 </section>
-
 
 
 

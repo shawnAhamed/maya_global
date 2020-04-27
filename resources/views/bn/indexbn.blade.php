@@ -12,10 +12,11 @@
 <body style="font-family:Hind Siliguri">
 <section class="menubar">
     <div class="mycontainer">
+        <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
             <a href="/bn"><img src="../img/logo.png" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
-        <div class="menudiv">
+        <div class="menudiv" style="background-color: ">
             <div class="menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
@@ -53,6 +54,7 @@
             </div>
         </div>
     </div>
+    </div>
 </section>
 
 <section class="banner">
@@ -64,9 +66,9 @@
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
                 <p style="font-size:80px;font-weight:bold;line-height:90px;color: #fff;padding:20px 30px;">সবার জন্য ভালো থাকার সহকারী</p>
                 <p style="font-size:30px;line-height:36px;color: #fff;padding:27px 30px">পরিচয় গোপন রেখে শারীরিক ও মানসিক সমস্যা নিয়ে প্রশ্ন করুন, বিশেষজ্ঞের পরামর্শ নিন।</p>
-                <div style="padding:43px 30px">
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">অ্যাপ ডাউনলোড</a>
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">আমাদের সেবাসমূহ</a>
+                <div style="padding:35px 30px">
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">অ্যাপ ডাউনলোড</a>
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">আমাদের সেবাসমূহ</a>
                 </div>
             </div>
 
@@ -215,15 +217,14 @@
 
 
 
-
-<section class="footer text-center" style="margin-top:120px">
-    <div class="mycontainer">
+<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+    <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
-            <span class="fa fa-facebook-square socialicon" style="font-size:20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-google socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-twitter socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-instagram socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
-            <span class="fa fa-linkedin-square socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>
+            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
 
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
@@ -231,6 +232,7 @@
         </div>
     </div>
 </section>
+
 
 
 
