@@ -42,10 +42,10 @@
                         <div>
                             <div style="height: 10px"></div>
                             <div class="dropdown-content" >
-                                <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 0px 0px;font-family:Hind Siliguri">বাংলা</a>
-                                <hr style="width: 110px">
-                                <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:0px 20px 0px 0px">English</a>
-                                <hr style="width: 110px">
+                                <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 10px 0px;font-family:Hind Siliguri">বাংলা</a>
+                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
+                                <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>
+                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
                                 <a href="#"  style="font-size: 12px;color: #363636;padding:10px 15px 15px 10px;margin-bottom: 20px">Learn more about how we are expanding!</a>
                             </div>
                         </div>
