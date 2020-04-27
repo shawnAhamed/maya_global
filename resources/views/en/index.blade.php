@@ -9,7 +9,7 @@
     <title>Maya || Wellbeing Assistant</title>
 
 </head>
-<body style="font-family: Montserrat;">
+<body style="">
 <section class="menubar">
     <div class="mycontainer">
         <div class="logodiv">
@@ -215,7 +215,7 @@
 
 
 
-<section class="footer text-center" style="margin-top:120px">
+<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
     <div class="mycontainer">
         <div class="mycontainer foterelement">
             <span class="fa fa-facebook-square socialicon" style="font-size:20px;font-weight:bold;height: 30px;width: 30px"></span>
