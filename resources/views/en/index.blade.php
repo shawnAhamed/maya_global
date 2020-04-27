@@ -11,7 +11,10 @@
 
 </head>
 <body style="font-family: 'Montserrat', sans-serif;">
+<div style="background-color:#314AC4;width: 100%">
 <section class="menubar">
+
+
     <div class="mycontainer">
         <div class="logodiv">
             <a href="/"><img src="../img/logo.png" style="width:165px;height:80px; margin-top:20px;"></a>
@@ -54,7 +57,9 @@
             </div>
         </div>
     </div>
+
 </section>
+</div>
 
 <section class="banner">
     <div class="mycontainer">
@@ -63,11 +68,11 @@
         </div>
         <div class="bannercontent">
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
-                <h1 style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</h1>
+                <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</p>
                 <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                 <div style="padding:20px 30px">
-                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
-                    <a class="bannerbtn" href="#" style="border-radius:14px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">Download App</a>
+                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:14px 14px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Product</a>
                 </div>
             </div>
 
@@ -89,30 +94,30 @@
     <div class="mycontainer">
         <div class="botservice">
             <div class="thumbnail text-center">
-                <img src="../img/icon/btrfly.png" alt="" style="height: 72px">
+                <img src="../img/icon/btrfly.png" alt="" style="height:89px;width:89px ">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;">Maya Bot</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px">7,000,000</p>
+                    <p style="font-size:20px;color: #363636; margin-bottom: 0rem;">Maya Bot</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">7,000,000</p>
                     <p style="font-size:16px;color: #363636">Instant interactions with Maya bot in a month, in 4 languages.</p>
                 </div>
             </div>
         </div>
         <div class="experservice">
             <div class="thumbnail text-center">
-                <img src="../img/icon/qa.png" alt="" style="height: 72px">
+                <img src="../img/icon/qa.png" alt="" style="height: 72px;width: 90px;margin-top: 20px">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;">Expert Answers</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px">200,000</p>
+                    <p style="font-size:20px;color: #363636; margin-bottom: 0rem;">Expert Answers</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px;margin-bottom:0rem;">200,000</p>
                     <p style="font-size:16px;color: #363636">Expert answers per month on physical and mental health.</p>
                 </div>
             </div>
         </div>
         <div class="mauservice">
             <div class="thumbnail text-center">
-                <img src="../img/icon/health.png" alt="" style="height: 72px">
+                <img src="../img/icon/health.png" alt="" style="height:90px;width:82px;">
                 <div class="caption">
-                    <p style="font-size:20px;color: #363636;">People Served</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px">10,200,000</p>
+                    <p style="font-size:20px;color: #363636; margin-bottom:0rem;">People Served</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10,200,000</p>
                     <p style="font-size:16px;color: #363636">Since the inception, Maya is tirelessly serving its users.</p>
                 </div>
             </div>
@@ -125,7 +130,7 @@
 
 <section class="appshow" style="padding:80px 0px;margin-top: 30px;background-color: #F0F0F0;">
     <div class="mycontainer">
-        <div class="" style="height:1020px">
+        <div class="" style="height:1020px;background-color:#F0F0F0" >
             <div class="mobilebanner text-center">
                 <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
             </div>
@@ -217,7 +222,7 @@
 
 
 <section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
-    <div class="mycontainer">
+    <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <span class="fa fa-facebook-square socialicon" style="font-size:20px;font-weight:bold;height: 30px;width: 30px"></span>
             <span class="fa fa-google socialicon" style="font-size: 20px;font-weight:bold;height: 30px;width: 30px"></span>

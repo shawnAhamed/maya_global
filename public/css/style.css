@@ -43,9 +43,11 @@ body{
     padding:0px 15px 0px 15px;
     color: #ffffff;
     font-size:20px;
+    line-height: 24px;
+    font-weight: 400;
 }
 .active {
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 .float-left{
@@ -76,7 +78,7 @@ body{
 
 }
 .caption{
-    margin-top: 20px;
+    margin-top:30px;
 }
 .experservice{
     text-align: center;
