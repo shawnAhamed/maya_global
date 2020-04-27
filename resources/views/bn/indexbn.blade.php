@@ -14,9 +14,9 @@
     <div class="mycontainer">
         <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
-            <a href="/bn"><img src="../img/logo.png" style="width:165px;height:80px; margin-top:20px;"></a>
+            <a href="/bn"><img src="../img/logo.svg" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
-        <div class="menudiv" style="background-color: ">
+        <div class="menudiv">
             <div class="menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
