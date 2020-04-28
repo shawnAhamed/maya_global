@@ -16,5 +16,8 @@ class HomeController extends Controller
     public function expert(){
         return view('en.expert');
     }
+    public function aboutus() {
+        return view('en.aboutusen');
+    }
 
 }

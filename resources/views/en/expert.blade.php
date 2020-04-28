@@ -29,7 +29,7 @@
                         <a class="anchor" href="#">Services</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">About</a>
+                        <a class="anchor" href="/about-us">About</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor active" href="/expert">Experts</a>
@@ -106,17 +106,17 @@
     <div class="mycontainer">
         <div class="temleader">
         <div class="medtl1 thumbnail">
-            <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1556189288.jpeg" class="drimg">
-            <h1 class="drname">Dr. Tangina Sharmeen</h1>
-            <p class="drdesignation">Medical Team Lead</p>
-            <p class="drquote">“Learning never exhausts the mind.”</p>
+            <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1556189288.jpeg" class="thumbimg">
+            <h1 class="thumbheader">Dr. Tangina Sharmeen</h1>
+            <p class="thumsubheader">Medical Team Lead</p>
+            <p class="thumbdesc">“Learning never exhausts the mind.”</p>
         </div>
         <div class="medtl2">
-            <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="drimg">
+            <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="thumbimg">
 
-            <h1 class="drname">Monzia Mushtaq</h1>
-            <p class="drdesignation">Mental Health Lead</p>
-            <p class="drquote">"It’s a beautiful world and we’re here to make it more beautiful."</p>
+            <h1 class="thumbheader">Monzia Mushtaq</h1>
+            <p class="thumsubheader">Mental Health Lead</p>
+            <p class="thumbdesc">"It’s a beautiful world and we’re here to make it more beautiful."</p>
         </div>
         </div>
 
@@ -127,31 +127,30 @@
     <div class="mycontainer">
         <div class="experts">
             <div class="expert1">
-                <img src="https://maya.com.bd//img/page/expert-team/ms-lokman.png" class="drimg">
-                <h1 class="drname">Dr. MS Lokman</h1>
-                <p class="drdesignation">Research Physician</p>
-                <p class="drquote">"I want to make the world a better place by serving mankind."</p>
+                <img src="https://maya.com.bd//img/page/expert-team/ms-lokman.png" class="thumbimg">
+                <h1 class="thumbheader">Dr. MS Lokman</h1>
+                <p class="thumsubheader">Research Physician</p>
+                <p class="thumbdesc">"I want to make the world a better place by serving mankind."</p>
             </div>
             <div class="expert2">
-                <img src="https://maya.com.bd/img/page/expert-team/keya-das.png" class="drimg">
+                <img src="https://maya.com.bd/img/page/expert-team/keya-das.png" class="thumbimg">
 
-                <h1 class="drname">Dr. Keya Das</h1>
-                <p class="drdesignation">Medical Expert</p>
-                <p class="drquote">"I am a social worker and I love to help the ones in need."</p>
+                <h1 class="thumbheader">Dr. Keya Das</h1>
+                <p class="thumsubheader">Medical Expert</p>
+                <p class="thumbdesc">"I am a social worker and I love to help the ones in need."</p>
             </div>
             <div class="expert3">
-                <img src="https://maya.com.bd/img/page/expert-team/nb-alam.png" class="drimg">
-
-                <h1 class="drname">Nadia Binte Alam</h1>
-                <p class="drdesignation">Counselor</p>
-                <p class="drquote">"I enjoy helping others build trust upon themselves.."</p>
+                <img src="https://maya.com.bd/img/page/expert-team/nb-alam.png" class="thumbimg">
+                <h1 class="thumbheader">Nadia Binte Alam</h1>
+                <p class="thumsubheader">Counselor</p>
+                <p class="thumbdesc">"I enjoy helping others build trust upon themselves.."</p>
             </div>
             <div class="expert4">
-                <img src="https://maya.com.bd/img/page/expert-team/ck-das.png" class="drimg">
+                <img src="https://maya.com.bd/img/page/expert-team/ck-das.png" class="thumbimg">
 
-                <h1 class="drname">Chayon Kumar Das</h1>
-                <p class="drdesignation">Counselor</p>
-                <p class="drquote">"Emphasis on mental health is crucial for a person’s well-being"</p>
+                <h1 class="thumbheader">Chayon Kumar Das</h1>
+                <p class="thumsubheader">Counselor</p>
+                <p class="thumbdesc">"Emphasis on mental health is crucial for a person’s well-being"</p>
             </div>
         </div>
 

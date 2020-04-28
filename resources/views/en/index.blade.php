@@ -31,7 +31,7 @@
                         <a class="anchor" href="#">Services</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">About</a>
+                        <a class="anchor" href="/about-us">About</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="/expert">Experts</a>
@@ -128,30 +128,31 @@
 </section>
 
 
-<section class="appshow" style="padding:80px 0px;margin-top: 30px;background-color: #F0F0F0;">
+<section class="appshow" style="margin-top: 30px;">
         <div class="" style="height:1020px;background-color:#F0F0F0" >
             <div class="mycontainer">
-            <div class="mobilebanner text-center">
-                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
+                <div style="background-color: #F0F0F0;height: 1020px;padding:40px 0px;" >
+                    <div class="mobilebanner text-center">
+                        <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
+                    </div>
+                    <div class="mobilebannercnt" style="margin-top:80px">
+                        <p style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:40px 0px;">All in one app and it’s simple!</p>
+                        <hr style="border: transparent;border-bottom: 1px dashed #707070;">
+                        <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star-half-o" style="color: #707070;"></span>
+                        <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:24px">4.6 Overall rating</span>
+                        <hr style="border: transparent;border-bottom: 1px dashed #707070;">
+                        <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
+                        <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a>
+                        <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
+                        <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:20px">
+                    </div>
+               </div>
             </div>
-            <div class="mobilebannercnt" style="margin-top:80px">
-                <p style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:40px 0px;">All in one app and it’s simple!</p>
-                <hr style="border: transparent;border-bottom: 1px dashed #707070;">
-                <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star checked"></span>
-                <span class="fa fa-star-half-o" style="color: #707070;"></span>
-                <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:24px">4.6 Overall rating</span>
-                <hr style="border: transparent;border-bottom: 1px dashed #707070;">
-                <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
-                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a>
-                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
-                <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:20px">
-            </div>
-        </div>
-
     </div>
 
 </section>

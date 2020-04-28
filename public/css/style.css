@@ -347,12 +347,12 @@ blockquote cite:before {
     margin-left: 30px;
     float: left;
 }
-.drimg{
+.thumbimg{
     height: 200px;
     width: 200px;
     border-radius:50%;
 }
-.drname{
+.thumbheader{
     font-size: 20px;
     font-weight: bold;
     line-height: 24px;
@@ -360,12 +360,12 @@ blockquote cite:before {
     margin-top:20px;
 
 }
-.drdesignation{
+.thumsubheader{
     font-size: 20px;
     line-height: 24px;
     color: #707070;
 }
-.drquote{
+.thumbdesc{
     font-size: 20px;
     line-height: 24px;
     color: #707070;
@@ -444,5 +444,153 @@ blockquote cite:before {
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown:hover .dropbtn {
+
+}
+
+.about-us{
+    height: 500px;
+    background-color: #E6B0E4;
+    text-align: center;
+}
+
+.about-us-banner{
+    height: 500px;
+    background-color: #E6B0E4;
+}
+.about-us-banner-text{
+    font-size:80px;
+    font-weight: 400;
+    line-height: 97px;
+    color: #363636;
+    padding-top: 106px;
+}
+
+.fb-coo-quote{
+    text-align: center;
+    background-color:#A64DA3;
+}
+.fbcoospeach{
+    height:280px;
+    background-color:#A64DA3;
+
+}
+.seminar-img{
+    text-align: center;
+    background-image: url("../img/seminar.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.ceonote{
+    padding:60px 60px 60px 60px;
+    border-radius: 8px;
+    position: absolute;
+}
+.speach-ceo{
+margin-top: -243px;
+    position: relative;
+    z-index:2;
+
+}
+
+.heading-regular{
+    font-size: 60px;
+    line-height: 73px;;
+    font-weight: 400;
+    color: #363636;
+}
+.sub-heading-regular{
+    font-size: 30px;
+    line-height: 37px;;
+    font-weight: 400;
+    color: #707070;
+}
+
+.grid-3-1{
+    float: left;
+    width: 370px;
+}
+.grid-3-2{
+    float: left;
+    width: 370px;
+    margin-left: 30px;
+}
+.grid-3-3{
+    float: left;
+    width: 370px;
+    margin-left: 30px;
+}
+
+.grid-4-1{
+    float: left;
+    width: 270px;
+}
+.grid-4-2{
+    float: left;
+    width: 270px;
+    margin-left: 30px;
+}
+.grid-4-3{
+    float: left;
+    width: 270px;
+    margin-left: 30px;
+}
+.grid-4-4{
+    float: left;
+    width: 270px;
+    margin-left: 30px;
+}
+
+
+.thumbheader-team{
+    font-size:24px;
+    font-weight: bold;
+    line-height: 24px;
+    color:#363636;
+    margin-top:30px;
+
+}
+
+.thumbimgleader{
+    height:320px;
+    width: 320px;
+    border-radius:50%;
+
+}
+.thumbimgteam{
+    height:230px;
+    width: 230px;
+    border-radius:50%;
+
+}
+.thumsubheader-team{
+    font-size: 20px;
+    line-height: 24px;
+    color: #363636;
+}
+.thumbdesc-team{
+    font-size: 20px;
+    line-height: 24px;
+    color: #363636;
+    margin-top:30px;
+    text-align: center;
+
+}
+.thumbdesc-leader{
+    font-size:16px;
+    line-height: 20px;
+    color: #363636;
+    margin-top:30px;
+    text-align: center;
+
+}
+
+.teampicture{
+    height: 645px;
+    text-align: center;
+    background-image: url("../img/team.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:115%;
 
 }
