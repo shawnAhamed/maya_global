@@ -17,7 +17,7 @@
 Route::get('/','HomeController@index');
 Route::get('/en','HomeController@index');
 Route::get('expert','HomeController@expert');
-Route::get('about-us','HomeController@aboutus');
+Route::get('about','HomeController@aboutus');
 
 
 

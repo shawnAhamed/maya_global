@@ -29,7 +29,7 @@
                         <a class="anchor" href="#">Services</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/about-us">About</a>
+                        <a class="anchor" href="/about">About</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor active" href="/expert">Experts</a>

@@ -81,13 +81,12 @@
 </section>
 
 <section class="seminar" style="height:1370px">
-    <div class="mycontainer">
 
     <div class="seminar-img" style="text-align: center;height:771px">
 {{--        <img src="/img/seminar.png" style="">--}}
     </div>
 
-    </div>
+
 
     <div class="mycontainer" style="">
         <div class="meetup" style="float: left;width:370px">
@@ -155,11 +154,11 @@
             <a href="#" class="joinmayabtntxt" style="text-decoration: none;padding:15px 30px">Contact Us</a>
         </div>
     </div>
-    <div class="mycontainer">
-        <div class="teampicture" style="text-align: center;">
-            {{--            <img src="/img/team.png" style="width: 1170px">--}}
+
+        <div class="teampicture" style="text-align: center;height:635px">
+{{--                        <img src="/img/team.png" style="width: 1170px">--}}
         </div>
-    </div>
+
 </section>
 
 
@@ -279,10 +278,10 @@
                 <img src="/img/ds.png" style="margin-top:60px">
             </div>
             <div class="grid-4-3 text-center" style="margin-top:60px">
-                <img src="/img/ds.png">
+                <img src="/img/fs.png">
             </div>
             <div class="grid-4-4 text-center" style="margin-top:60px">
-                <img src="/img/ds.png" >
+                <img src="/img/fs.png" >
             </div>
         </div>
         <hr style="border: 1px solid #BFBFBF">
