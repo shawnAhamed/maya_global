@@ -159,6 +159,7 @@
 <div class="mycontainer">
         <div class="teampicture" style="text-align: center;height:635px">
 {{--                        <img src="/img/team.png" style="width: 1170px">--}}
+
         </div>
 </div>
 
