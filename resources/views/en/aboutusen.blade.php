@@ -81,12 +81,12 @@
 </section>
 
 <section class="seminar" style="height:1370px">
-    <div class="mycontainer">
+
 
     <div class="seminar-img" style="text-align: center;height:771px">
 {{--        <img src="/img/seminar.png" style="">--}}
     </div>
-    </div>
+
 
 
 
@@ -156,12 +156,12 @@
             <a href="#" class="joinmayabtntxt" style="text-decoration: none;padding:15px 30px">Contact Us</a>
         </div>
     </div>
-<div class="mycontainer">
+
         <div class="teampicture" style="text-align: center;height:635px">
 {{--                        <img src="/img/team.png" style="width: 1170px">--}}
 
         </div>
-</div>
+
 
 </section>
 
