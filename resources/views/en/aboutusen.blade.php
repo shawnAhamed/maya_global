@@ -132,7 +132,7 @@
         </div>
         <div class="grid-3-2 text-center">
             <img src="https://i.imgur.com/p9aIb7c.png" class="thumbimg">
-            <h1 class="thumbheader-team">Singapur</h1>
+            <h1 class="thumbheader-team">Singapore</h1>
             <p class="thumsubheader-team">Since 2019</p>
             <p class="thumbdesc-team">We opened our regional HQ at Singapore to expand our horizon.</p>
         </div>
