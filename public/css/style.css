@@ -226,12 +226,12 @@ blockquote cite:before {
 }
 .foterelement{
     background-image: url("../img/worldmap.png");
-    height: 410px;
+    height: 450px;
     background-position:center;
     background-size:100%;
     background-repeat: no-repeat;
     padding-top:100px;
-    padding-bottom:80px;
+    padding-bottom:120px;
     color: #ffffff;
     background-position-x:50%;
     background-position-y:200px;
