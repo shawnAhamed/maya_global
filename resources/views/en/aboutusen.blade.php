@@ -9,7 +9,7 @@
     <title>Maya || Wellbeing Assistant</title>
 
 </head>
-<body style="font-family: Montserrat;">
+<body style="font-family: 'Montserrat', sans-serif;">
 <section class="menubar">
     <div class="mycontainer">
         <div style="height:120px;background-color:#314AC4">
