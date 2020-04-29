@@ -159,7 +159,7 @@
 
 <section class="appdownloadpart" style="background-color: #F0F0F0;margin-top:90px">
     <div class="mycontainer" style="padding:80px 0px">
-        <div class="dfsfs" >
+        <div class="" >
             <p style="font-size:40px;color:#363636;line-height: 48px;text-align: center;">These are just a few of the incredible people from our long list of experts. They are here to help you.</p>
             <h2 style="font-size:40px;color:#363636;line-height: 48px;text-align: center;font-weight: bold;padding-top: 40px">Reach out to them by downloading our Maya app.
                 Everything you ask is confidential.</h2>

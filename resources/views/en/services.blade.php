@@ -120,6 +120,31 @@
 
 
 <section class="appshow" style="height:980px;background-color: #613ABD">
+    <div class="mycontainer" style="padding-top:70px;height:480px ">
+        <div class="grid-4-1 text-center">
+            <img src="/img/servicepage/bot image.png" class="appshowframe">
+        </div>
+        <div class="grid-4-2 text-center">
+            <img src="/img/servicepage/que & ans.png" class="appshowframe">
+
+        </div>
+        <div class="grid-4-3 text-center">
+            <img src="/img/servicepage/package.png" class="appshowframe">
+
+        </div>
+        <div class="grid-4-4 text-center">
+            <img src="/img/servicepage/bmi.png" class="appshowframe">
+        </div>
+    </div>
+    <div style="text-align: center;margin-top:120px">
+        <p style="font-size: 48px;line-height: 58px;color: #ffffff;margin-top: 60px">All in one app and it’s simple!</p>
+        <div style="padding: 40px 0px">
+            <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
+            <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+        </div>
+        <p style="font-size:24px;line-height:29px;color: #ffffff">Join the largest community of Bangla speakers who are conscious about their health,<br>lifestyle and well-being.</p>
+
+    </div>
 
 </section>
 
@@ -139,18 +164,18 @@
 <section class="kioskbanner">
         <div class="kiosshow">
             <div class="mycontainer">
-                <div class="" style="width:770px;margin-left: 200px">
-                <img src="/img/servicepage/sbfly.png" style="margin-top: 60px">
-                    <div>
+                <div class="" style="width:750px;margin-left: 200px">
+                <img src="/img/servicepage/kiosk.png" style="margin-top: 60px">
+                    <div style="margin-top: 30px">
                         <p style="font-size: 70px;font-weight:500;color:#314AC4">Maya Kiosk</p>
                         <p style="font-size:30px;font-weight:400;line-height:36px;color:#363636">A unique tool to setup inside the workplace to offer basic healthcare services to the workers.</p>
                     </div>
 
                     <div style=" margin-top:60px">
-                        <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 30px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">Ask for a Demo</a>
-                        <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 20px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">Product Features</a><br>
+                        <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 25px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">Ask for a Demo</a>
+                        <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 15px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">Product Features</a>
                     </div>
-                    <p style="font-size:16px;font-weight:500;line-height: 36px;color: #363636;margin-top: 60px">Explore other exclusive tools built for business!</p>
+                    <p style="font-size:16px;font-weight:500;line-height: 36px;color: #363636;margin-top:30px">Explore other exclusive tools built for business!</p>
 
                 </div>
             </div>
