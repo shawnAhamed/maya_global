@@ -541,6 +541,45 @@ margin-top: -243px;
     margin-left: 30px;
 }
 
+.grid-6-1{
+    float: left;
+    width: 170px;
+}
+.grid-6-2{
+    float: left;
+    width: 170px;
+    margin-left: 30px;
+}
+.grid-6-3{
+    float: left;
+    width: 170px;
+    margin-left: 30px;
+}
+.grid-6-4{
+    float: left;
+    width: 170px;
+    margin-left: 30px;
+}
+.grid-6-5{
+    float: left;
+    width: 170px;
+    margin-left: 30px;
+}
+.grid-6-6{
+    float: left;
+    width: 170px;
+    margin-left: 30px;
+}
+.grid-6-2-3{
+    float: left;
+    width:170px;
+    margin-left:400px;
+}
+.grid-6-2-4{
+    float: left;
+    width:170px;
+    margin-left: 30px;
+}
 
 .thumbheader-team{
     font-size:24px;
@@ -568,6 +607,12 @@ margin-top: -243px;
     line-height: 24px;
     color: #363636;
 }
+.thumsubheader-service{
+    font-size:16px;
+    line-height: 19px;
+    color: #363636;
+
+}
 .thumbdesc-team{
     font-size: 20px;
     line-height: 24px;
@@ -591,4 +636,21 @@ margin-top: -243px;
     background-repeat: no-repeat;
     background-position:center;
     background-size:cover;
+}
+.servicetag{
+    text-align: center;
+}
+
+.servicedesc{
+    margin-top:30px;
+}
+
+.kioskbanner{
+    margin-top:60px;
+}
+.kiosshow{
+    height: 1188px;
+    background-color: #FCECD2;
+    text-align: center;
+
 }

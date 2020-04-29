@@ -26,7 +26,7 @@
                             <a class="anchor" href="/">Coronavirus</a>
                         </li>
                         <li class=" float-left">
-                            <a class="anchor" href="#">Services</a>
+                            <a class="anchor" href="/services">Services</a>
                         </li>
                         <li class=" float-left">
                             <a class="anchor active" href="/about">About</a>
@@ -63,7 +63,7 @@
             <p class="about-us-banner-text">To help everyone feel awesome, everyday.</p>
             <div style=" padding-top:60px">
                 <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Founder’s Note</a>
-                <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Services</a>
+                <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none;width: 210px">Our Services</a>
             </div>
         </div>
     </div>
@@ -178,19 +178,19 @@
                 <div class="grid-3-1 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
                 <div class="grid-3-2 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
                 <div class="grid-3-3 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
             </div>
@@ -199,19 +199,19 @@
                 <div class="grid-3-1 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
                 <div class="grid-3-2 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
                 <div class="grid-3-3 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgleader">
                     <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheade-teamr">Founder & CEO</p>
+                    <p class="thumsubheader-team">Founder & CEO</p>
                     <p class="thumbdesc-leader">Our office is much like a sunflower. The Hummingbird is a symbol of freedom.</p>
                 </div>
             </div>
@@ -223,44 +223,44 @@
                 <div class="grid-4-1 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-2 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-3 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                  </div>
                 <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
             </div>
             <div class="mycontainer" style="height:420px;margin-top:30px">
                 <div class="grid-4-1 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-2 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-3 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/TG1ECbG.jpg" class="thumbimgteam">
                     <h1 class="thumbheader-team">Mahmud Jarman</h1>
-                    <p class="thumsubheade-teamr">Head of Engineering</p>
+                    <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
             </div>
 
@@ -295,7 +295,7 @@
 
 
 
-<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+<section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>

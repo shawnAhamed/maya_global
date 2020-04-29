@@ -26,7 +26,7 @@
                         <a class="anchor" href="/">Coronavirus</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">Services</a>
+                        <a class="anchor" href="/services">Services</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="/about">About</a>
@@ -178,7 +178,7 @@
 
 
 
-<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+<section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>

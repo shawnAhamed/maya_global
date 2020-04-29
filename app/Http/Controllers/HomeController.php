@@ -20,4 +20,8 @@ class HomeController extends Controller
         return view('en.aboutusen');
     }
 
+    public function services() {
+        return view('en.services');
+    }
+
 }
