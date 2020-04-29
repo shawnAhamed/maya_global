@@ -129,9 +129,9 @@
 
 
 <section class="appshow" style="margin-top: 30px;">
-        <div class="" style="height:1040px;background-color:#F0F0F0;" >
+        <div class="" style="height:1100px;background-color:#F0F0F0;" >
             <div class="mycontainer">
-                <div style="background-color: #F0F0F0;height: 1040px;padding:40px 0px">
+                <div style="background-color: #F0F0F0;height: 1100px;padding:40px 0px">
                     <div class="mobilebanner text-center" style="margin-bottom:100px">
                         <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
                     </div>
