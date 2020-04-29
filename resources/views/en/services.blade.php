@@ -60,7 +60,7 @@
 <section class="servicetag">
     <div class="mycontainer">
         <p style="font-size: 90px;line-height: 110px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve over <u>3,000,000</u> people every month.</p>
-        <hr style="border:3px solid #613ABD">
+        <hr style="border:5px solid #613ABD;margin-top:20px">
     </div>
 </section>
 <section style="margin-top:60px">
@@ -142,7 +142,7 @@
             <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
             <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
-        <p style="font-size:24px;line-height:29px;color: #ffffff">Join the largest community of Bangla speakers who are conscious about their health,<br>lifestyle and well-being.</p>
+        <p style="font-size:24px;line-height:29px;color:#BFB1E0">Join the largest community of Bangla speakers who are conscious about their health,<br>lifestyle and well-being.</p>
 
     </div>
 

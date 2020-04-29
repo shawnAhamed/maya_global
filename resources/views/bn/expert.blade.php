@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <title>Maya || Wellbeing Assistant</title>
-
 </head>
 
 <body style="font-family:Hind Siliguri">
@@ -36,7 +35,7 @@
                         <a class="anchor active" href="/bn/expert">বিশেষজ্ঞ</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">ডাউনলোড</a>
+                        <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
                     </li>
                     <li class="float-left dropdown">
                         <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -47,7 +46,7 @@
                                 <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
                                 <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>
                                 <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
-                                <a href="#"  style="font-size: 12px;color: #363636;padding:10px 15px 15px 10px;margin-bottom: 20px">Learn more about how we are expanding!</a>
+                                <a href="#"  style="font-size: 12px;color: #363636;padding:10px 20px 15px 15px;margin-bottom: 20px">Learn more about how we are expanding!</a>
                             </div>
                         </div>
                     </li>
@@ -106,17 +105,17 @@
     <div class="mycontainer">
         <div class="temleader">
             <div class="medtl1 thumbnail">
-                <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1556189288.jpeg" class="drimg">
-                <h1 class="drname">Dr. Tangina Sharmeen</h1>
-                <p class="drdesignation">Medical Team Lead</p>
-                <p class="drquote">“Learning never exhausts the mind.”</p>
+                <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1556189288.jpeg" class="thumbimg">
+                <h1 class="thumbheader">Dr. Tangina Sharmeen</h1>
+                <p class="thumsubheader">Medical Team Lead</p>
+                <p class="thumbdesc">“Learning never exhausts the mind.”</p>
             </div>
             <div class="medtl2">
-                <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="drimg">
+                <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="thumbimg">
 
-                <h1 class="drname">Monzia Mushtaq</h1>
-                <p class="drdesignation">Mental Health Lead</p>
-                <p class="drquote">"It’s a beautiful world and we’re here to make it more beautiful."</p>
+                <h1 class="thumbheader">Monzia Mushtaq</h1>
+                <p class="thumsubheader">Mental Health Lead</p>
+                <p class="thumbdesc">"It’s a beautiful world and we’re here to make it more beautiful."</p>
             </div>
         </div>
 
@@ -127,31 +126,31 @@
     <div class="mycontainer">
         <div class="experts">
             <div class="expert1">
-                <img src="https://maya.com.bd//img/page/expert-team/ms-lokman.png" class="drimg">
-                <h1 class="drname">Dr. MS Lokman</h1>
-                <p class="drdesignation">Research Physician</p>
-                <p class="drquote">"I want to make the world a better place by serving mankind."</p>
+                <img src="https://maya.com.bd//img/page/expert-team/ms-lokman.png" class="thumbimg">
+                <h1 class="thumbheader">Dr. MS Lokman</h1>
+                <p class="thumsubheader">Research Physician</p>
+                <p class="thumbdesc">"I want to make the world a better place by serving mankind."</p>
             </div>
             <div class="expert2">
-                <img src="https://maya.com.bd/img/page/expert-team/keya-das.png" class="drimg">
+                <img src="https://maya.com.bd/img/page/expert-team/keya-das.png" class="thumbimg">
 
-                <h1 class="drname">Dr. Keya Das</h1>
-                <p class="drdesignation">Medical Expert</p>
-                <p class="drquote">"I am a social worker and I love to help the ones in need."</p>
+                <h1 class="thumbheader">Dr. Keya Das</h1>
+                <p class="thumsubheader">Medical Expert</p>
+                <p class="thumbdesc">"I am a social worker and I love to help the ones in need."</p>
             </div>
             <div class="expert3">
-                <img src="https://maya.com.bd/img/page/expert-team/nb-alam.png" class="drimg">
+                <img src="https://maya.com.bd/img/page/expert-team/nb-alam.png" class="thumbimg">
 
-                <h1 class="drname">Nadia Binte Alam</h1>
-                <p class="drdesignation">Counselor</p>
-                <p class="drquote">"I enjoy helping others build trust upon themselves.."</p>
+                <h1 class="thumbheader">Nadia Binte Alam</h1>
+                <p class="thumsubheader">Counselor</p>
+                <p class="thumbdesc">"I enjoy helping others build trust upon themselves.."</p>
             </div>
             <div class="expert4">
-                <img src="https://maya.com.bd/img/page/expert-team/ck-das.png" class="drimg">
+                <img src="https://maya.com.bd/img/page/expert-team/ck-das.png" class="thumbimg">
 
-                <h1 class="drname">Chayon Kumar Das</h1>
-                <p class="drdesignation">Counselor</p>
-                <p class="drquote">"Emphasis on mental health is crucial for a person’s well-being"</p>
+                <h1 class="thumbheader">Chayon Kumar Das</h1>
+                <p class="thumsubheader">Counselor</p>
+                <p class="thumbdesc">"Emphasis on mental health is crucial for a person’s well-being"</p>
             </div>
         </div>
 
@@ -177,10 +176,10 @@
 
 
 
-<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+<section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
-            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px;border-radius: 0px"></span>
             <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
             <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
             <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>

@@ -273,7 +273,7 @@
     <div class="mycontainer" style="text-align: center;margin-top:30px;padding-bottom:60px">
         <p class="" style="font-size: 48px;line-height:58px;color: #363636;padding-top:30px">Maya in News</p>
         <p class="" style="font-size:24px;line-height:29px;color: #363636;margin-top: 20px">We made headlines for many reasons on local and international medias. </p>
-        <hr style="border: 1px solid #BFBFBF;margin-top:30px">
+        <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
         <div class="mycontainer" style="height:182px;">
             <div class="grid-4-1 text-center">
                 <img src="/img/ds.png" style="margin-top:60px">
@@ -288,7 +288,7 @@
                 <img src="/img/fs.png" >
             </div>
         </div>
-        <hr style="border: 1px solid #BFBFBF">
+        <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
     </div>
 
 </section>
