@@ -23,5 +23,8 @@ class HomeController extends Controller
     public function services() {
         return view('en.services');
     }
+    public function corona(){
+        return view('en.corona');
+    }
 
 }
