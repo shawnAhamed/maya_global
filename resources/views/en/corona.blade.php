@@ -84,7 +84,7 @@
                     </div>
                 </nav>
             </div>
-            <div class="grid-4-2" style="float: right;width: auto">
+            <div class="grid-4-2" style="float: right;width: auto;margin-top:8px">
                 <a href="#">
                     <p style="font-size: 18px;margin-top:25px;float: left;padding: 3px 3px;color: #707070;line-height: 22px">Powered By</p>
                     <img src="https://i.imgur.com/EXQmW2p.png" alt=""style="height:30px;margin-top:25px;float: right;background-color:#A1D6D9;padding: 5px 10px;float: left">
