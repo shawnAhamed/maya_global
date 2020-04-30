@@ -170,7 +170,7 @@
 
 
 
-<section class="footer text-center" style="background-color:#314AC4 ">
+<section class="footer text-center" style="background-color:#314AC4;margin-top: 120px ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
