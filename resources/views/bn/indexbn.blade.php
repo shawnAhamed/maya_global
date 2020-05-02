@@ -6,7 +6,8 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <title>Maya || Wellbeing Assistant</title>
+    <title>মায়া, সবার জন্য ভালো থাকার সহকারী</title>
+    <meta name="description" content="পরিচয় গোপন রেখে শারীরিক ও মানসিক সমস্যা নিয়ে প্রশ্ন করুন, বিশেষজ্ঞের পরামর্শ নিন।">
 
 </head>
 <body style="font-family:Hind Siliguri">
@@ -23,13 +24,13 @@
                         <a class="anchor active" href="/bn">প্রথম পাতা<span class="sr-only">(current)</span></a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/corona">করোনা ভাইরাস</a>
+                        <a class="anchor" href="/bn/corona">করোনা ভাইরাস</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/services">পরিষেবা</a>
+                        <a class="anchor" href="/bn/services">পরিষেবা</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/about-us">আমাদের সম্পর্কে</a>
+                        <a class="anchor" href="/about">আমাদের সম্পর্কে</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="/bn/expert">বিশেষজ্ঞ</a>

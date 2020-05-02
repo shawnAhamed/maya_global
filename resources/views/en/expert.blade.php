@@ -63,8 +63,8 @@
         <img src="/img/experts.png" style="margin-top: 30px;height: 700px;">
     </div>
     <div class="mycontainer">
-        <h1 class="experttagline">The People Powering Maya</h1>
-        <h2 class="experttagline2">THE SUNFLOWER AND THE HUMMINGBIRD</h2>
+        <p class="experttagline">The People Powering Maya</p>
+        <p class="experttagline2">THE SUNFLOWER AND THE HUMMINGBIRD</p>
     </div>
 
     <div class="mycontainer">

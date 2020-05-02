@@ -15,14 +15,25 @@
 
 
 Route::get('/','HomeController@index');
-Route::get('/en','HomeController@index');
+Route::get('/corona','HomeController@corona');
+Route::get('/services','HomeController@services');
 Route::get('/expert','HomeController@expert');
 Route::get('/about','HomeController@aboutus');
-Route::get('/services','HomeController@services');
-Route::get('/corona','HomeController@corona');
+
+
+
+
+Route::get('/en','HomeController@index');
+Route::get('/en/corona','HomeController@corona');
+Route::get('/en/services','HomeController@services');
+Route::get('/en/about','HomeController@aboutus');
+Route::get('/en/expert','HomeController@expert');
 
 
 
 Route::get('/bn','BnsiteController@index');
-Route::get('bn/expert','BnsiteController@expert');
+Route::get('/bn/corona','BnsiteController@corona');
+Route::get('/bn/services','BnsiteController@services');
+Route::get('/bn/about','BnsiteController@about');
+Route::get('/bn/expert','BnsiteController@expert');
 

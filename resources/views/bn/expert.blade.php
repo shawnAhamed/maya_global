@@ -23,13 +23,13 @@
                         <a class="anchor " href="/bn">প্রথম পাতা<span class="sr-only">(current)</span></a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">করোনা ভাইরাস</a>
+                        <a class="anchor" href="/bn/corona">করোনা ভাইরাস</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">পরিষেবা</a>
+                        <a class="anchor" href="/bn/services">পরিষেবা</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#">আমাদের সম্পর্কে</a>
+                        <a class="anchor" href="/about">আমাদের সম্পর্কে</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor active" href="/bn/expert">বিশেষজ্ঞ</a>

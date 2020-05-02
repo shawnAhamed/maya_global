@@ -63,7 +63,7 @@
             <p class="about-us-banner-text">To help everyone feel awesome, everyday.</p>
             <div style=" padding-top:60px">
                 <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Founder’s Note</a>
-                <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none;width: 210px">Our Services</a>
+                <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left:30px;text-decoration: none;width: 210px">Our Services</a>
             </div>
         </div>
     </div>
@@ -153,7 +153,7 @@
         <p class="" style="font-size: 48px;line-height: 36px;color: #363636;padding-top:30px">Want to be a Regional Partner?</p>
         <p class="" style="font-size:24px;line-height:24px;color: #363636;margin-top: 20px">It’s much more than just helping people.</p>
         <div class="joinmayabtn" style="text-align: center;margin-top:40px;">
-            <a href="#" class="joinmayabtntxt" style="text-decoration: none;padding:15px 30px">Contact Us</a>
+            <a href="#" class="joinmayabtntxt" style="text-decoration: none;padding:15px 35px">Contact Us</a>
         </div>
     </div>
 
@@ -276,13 +276,14 @@
         <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
         <div class="mycontainer" style="height:182px;">
             <div class="grid-4-1 text-center">
-                <img src="/img/ds.png" style="margin-top:60px">
+                <img src="https://i.imgur.com/xwYdWcV.jpg" style="margin-top:60px">
             </div>
             <div class="grid-4-2 text-center">
-                <img src="/img/ds.png" style="margin-top:60px">
+                <img src="https://i.imgur.com/izJ2KcT.jpg" style="margin-top:60px">
             </div>
+
             <div class="grid-4-3 text-center" style="margin-top:60px">
-                <img src="/img/fs.png">
+                <img src="https://i.imgur.com/K3sOMw1.jpg">
             </div>
             <div class="grid-4-4 text-center" style="margin-top:60px">
                 <img src="/img/fs.png" >
