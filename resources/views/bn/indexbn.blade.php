@@ -68,8 +68,8 @@
                 <p style="font-size:80px;font-weight:bold;line-height:90px;color: #fff;padding:20px 30px;">সবার জন্য ভালো থাকার সহকারী</p>
                 <p style="font-size:30px;line-height:36px;color: #fff;padding:27px 30px">পরিচয় গোপন রেখে শারীরিক ও মানসিক সমস্যা নিয়ে প্রশ্ন করুন, বিশেষজ্ঞের পরামর্শ নিন।</p>
                 <div style="padding:35px 30px">
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">অ্যাপ ডাউনলোড</a>
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">আমাদের সেবাসমূহ</a>
+                    <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none">অ্যাপ ডাউনলোড</a>
+                    <a class="bannerbtn" href="/bn/services" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">আমাদের সেবাসমূহ</a>
                 </div>
             </div>
 
