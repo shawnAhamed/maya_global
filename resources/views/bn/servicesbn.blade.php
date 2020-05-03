@@ -37,7 +37,7 @@
                             <a class="anchor " href="/bn/expert">বিশেষজ্ঞ</a>
                         </li>
                         <li class=" float-left">
-                            <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
+                            <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
                         </li>
                         <li class="float-left dropdown">
                             <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -142,8 +142,8 @@
     <div style="text-align: center;margin-top:120px">
         <p style="font-size: 48px;line-height: 58px;color: #ffffff;margin-top: 60px">এক অ্যাপে সবকিছু, সহজে।</p>
         <div style="padding:30px 0px">
-            <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
-            <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+            <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
+            <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
         <p style="font-size:24px;line-height:37px;color:#BFB1E0">স্বাস্থ্য, জীবনধারা এবং ভালো থাকা নিয়ে সচেতন বাংলা ভাষাভাষী সবচেয়ে বড় জনগোষ্ঠীর সাথে যুক্ত হোন,<br> অভিজ্ঞতা বিনিময় করুন।</p>
 
@@ -157,7 +157,7 @@
         <h1 class="jonmayatext">মায়া’তে বিশেষজ্ঞ হিসেবে যোগ দিতে চান?</h1>
         <h1 class="jonmayatext2">মায়ার বিশেষজ্ঞ হওয়া মানে অন্যকে সাহায্য করার চাইতেও বেশি কিছু।</h1>
         <div class="joinmayabtn" style="text-align: center;margin-top:50px;">
-            <a href="#" class="joinmayabtntxt" style="text-decoration: none;">এখনই যোগ দিন!</a>
+            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;">এখনই যোগ দিন!</a>
         </div>
     </div>
 
@@ -175,8 +175,8 @@
                 </div>
 
                 <div style=" margin-top:60px">
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 45px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">পরখ করে দেখুন</a>
-                    <a class="bannerbtn" href="#" style="border-radius:8px;padding:22px 35px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">বিভিন্ন সুবিধাসমূহ</a>
+                    <a class="bannerbtn" href="mailto:kiosk@maya.com.bd" target="_blank"  style="border-radius:8px;padding:22px 45px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">পরখ করে দেখুন</a>
+                    <a class="bannerbtn" href="https://bit.ly/3d9CtXo" target="_blank" style="border-radius:8px;padding:22px 35px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">বিভিন্ন সুবিধাসমূহ</a>
                 </div>
                 <p style="font-size:16px;font-weight:500;line-height: 36px;color: #363636;margin-top:30px">ব্যবসার জন্য নির্মিত অন্যান্য সরঞ্জাম সম্পর্কে জানুন।</p>
 
@@ -192,7 +192,7 @@
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
@@ -203,6 +203,7 @@
         </div>
     </div>
 </section>
+
 
 
 </body>

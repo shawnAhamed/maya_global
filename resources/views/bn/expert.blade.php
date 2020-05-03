@@ -35,7 +35,7 @@
                         <a class="anchor active" href="/bn/expert">বিশেষজ্ঞ</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
+                        <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
                     </li>
                     <li class="float-left dropdown">
                         <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -93,7 +93,7 @@
         <h1 class="jonmayatext" style="font-weight: 400">মায়া’তে বিশেষজ্ঞ হিসেবে যোগ দিতে চান?</h1>
         <h1 class="jonmayatext2">মায়ার বিশেষজ্ঞ হওয়া মানে অন্যকে সাহায্য করার চাইতেও বেশি কিছু।</h1>
         <div class="joinmayabtn" style="text-align: center;margin-top:50px;">
-            <a href="#" class="joinmayabtntxt" style="text-decoration: none;line-height: 24px">এখনই যোগ দিন!</a>
+            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;line-height: 24px">এখনই যোগ দিন!</a>
         </div>
         <hr style="border: transparent;border-bottom: 1px dashed #707070;margin-top:40px;">
 
@@ -164,8 +164,8 @@
             <h2 style="font-size:40px;color:#363636;line-height: 48px;text-align: center;font-weight: bold;padding-top: 40px">বিশেষজ্ঞের পরামর্শের জন্য মায়া অ্যাপ ডাউনলোড করুন।</h2>
         </div>
         <div class="downloadbtn">
-            <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
-            <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+            <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
+            <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
 
 
@@ -175,15 +175,14 @@
 
 
 
-
 <section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
-            <span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px;border-radius: 0px"></span>
-            <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
-            <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
-            <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
-            <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span>
+            <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
 
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
             <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
@@ -191,6 +190,7 @@
         </div>
     </div>
 </section>
+
 
 
 

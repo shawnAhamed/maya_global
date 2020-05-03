@@ -35,7 +35,7 @@
                             <a class="anchor " href="/bn/expert">বিশেষজ্ঞ</a>
                         </li>
                         <li class=" float-left">
-                            <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
+                            <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
                         </li>
                         <li class="float-left dropdown">
                             <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -70,13 +70,13 @@
                         <ul class="navbar-nav mr-auto">
 
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona-test" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">নিজেই যাচাই করুন</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona-test" target="_blank" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">নিজেই যাচাই করুন</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona/ask-to-maya" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">বিশেষজ্ঞের পরামর্শ নিন</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona/ask-to-maya" target="_blank" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">বিশেষজ্ঞের পরামর্শ নিন</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona/#faq" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">সচরাচর জিজ্ঞাসা</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona/#faq" target="_blank" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">সচরাচর জিজ্ঞাসা</a>
                             </li>
                         </ul>
 
@@ -114,14 +114,13 @@
             <img src="/img/loop.png" alt="Workplace" usemap="#workmap" style="margin: 0 auto">
             <map name="workmap">
                 <area shape="rect" coords="531,175,736,231" alt="Computer" href="https://www.messenger.com/t/maya.yourwellbeingpartner" target="_blank">
-                <area shape="rect" coords="932,466,,1137,521" alt="Phone" href="/maya-corona-test" target="_blank">
-                <area shape="rect" coords="932,969,,1137,1004" alt="Phone" href="/auth/login?ask=1" target="_blank">
-                <area shape="rect" coords="533,1278,,7733,1331" alt="Phone" href="/corona/ask-to-maya" target="_blank">
+                <area shape="rect" coords="932,466,,1137,521" alt="Phone" href="https://maya.com.bd/maya-corona-test" target="_blank">
+                <area shape="rect" coords="932,969,,1137,1004" alt="Phone" href="https://bit.ly/3dcqeJD" target="_blank">
+                <area shape="rect" coords="533,1278,,7733,1331" alt="Phone" href="https://maya.com.bd/corona/ask-to-maya" target="_blank">
                 <area shape="rect" coords="129,876,,292,888" alt="Phone" href="http://blog.maya.com.bd" target="_blank">
                 <area shape="rect" coords="128,929,306,946" alt="Phone" id="myBtn">
 
                 <div id="myModal" class="modal">
-
                     <!-- Modal content -->
                     <div class="modal-content" style="height:300px;width: 300px;background-color:lightgray">
                         <span class="close">&times;</span>
@@ -159,11 +158,11 @@
 
 
 
-<section class="footer text-center" style="background-color:#314AC4;margin-top:px ">
+<section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
@@ -174,6 +173,7 @@
         </div>
     </div>
 </section>
+
 
 
 </body>

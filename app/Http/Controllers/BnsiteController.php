@@ -22,7 +22,7 @@ class BnsiteController extends Controller
     }
 
     public function about(){
-        return view('en.aboutusen');
+        return view('bn.aboutusbn');
 
     }
 

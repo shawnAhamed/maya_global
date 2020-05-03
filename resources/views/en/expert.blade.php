@@ -35,7 +35,7 @@
                         <a class="anchor active" href="/expert">Experts</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
+                        <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
                     </li>
                     <li class=" float-left dropdown">
                         <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -94,7 +94,7 @@
         <h1 class="jonmayatext">Want to be a Maya Expert?</h1>
         <h1 class="jonmayatext2">It’s much more than just helping people.</h1>
         <div class="joinmayabtn" style="text-align: center;margin-top:50px;">
-        <a href="#" class="joinmayabtntxt" style="text-decoration: none;">Join Now!</a>
+        <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;">Join Now!</a>
         </div>
         <hr style="border: transparent;border-bottom: 1px dashed #707070;margin-top:40px;">
 
@@ -165,8 +165,8 @@
                 Everything you ask is confidential.</h2>
         </div>
         <div class="downloadbtn">
-            <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
-            <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+            <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
+            <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
 
 
@@ -182,7 +182,7 @@
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
+            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
             <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
@@ -193,6 +193,7 @@
         </div>
     </div>
 </section>
+
 
 
 

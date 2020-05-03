@@ -30,13 +30,13 @@
                         <a class="anchor" href="/bn/services">পরিষেবা</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/about">আমাদের সম্পর্কে</a>
+                        <a class="anchor" href="/bn/about">আমাদের সম্পর্কে</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="/bn/expert">বিশেষজ্ঞ</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
+                        <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 20px">ডাউনলোড</a>
                     </li>
                     <li class="float-left dropdown">
                         <a  style="padding:0px 0px 0px 15px;" ><i class="fa fa-globe dropbtn" style="font-size:30px"></i></a>
@@ -143,8 +143,8 @@
                 <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:32px">৪.৬ সামগ্রিক রেটিং</span>
                 <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                 <p style="color: #363636;font-size: 30px;line-height:36px;font-weight: 400;padding: 20px 0px;">মায়া উন্নয়নশীল দেশগুলোতে বিশেষজ্ঞ পরামর্শ গ্রহণের প্রক্রিয়াকে সহজ করার চেষ্টা করছে। এন্ড্রোয়েড, আইওএস, ওয়েব এবং ফ্রি বেসিক  এই সব মাধ্যমে আপনারা আমাদের সেবা গ্রহণ করতে পারেন।</p>
-                <a  style="text-decoration: none;" href="#" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a>
-                <a  style="text-decoration: none;padding-left:10px" href="#" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a><br>
+                <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a>
+                <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;margin-top: 10px"></a><br>
                 <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:40px">
             </div>
         </div>

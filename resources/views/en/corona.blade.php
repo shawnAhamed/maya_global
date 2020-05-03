@@ -23,7 +23,7 @@
                             <a class="anchor" href="/">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class=" float-left">
-                            <a class="anchor active" href="/">Coronavirus</a>
+                            <a class="anchor active" href="/corona">Coronavirus</a>
                         </li>
                         <li class=" float-left">
                             <a class="anchor" href="/services">Services</a>
@@ -35,7 +35,7 @@
                             <a class="anchor" href="/expert">Experts</a>
                         </li>
                         <li class=" float-left">
-                            <a class="anchor" href="#" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
+                            <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
                         </li>
                         <li class=" float-left dropdown">
                             <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
@@ -68,16 +68,16 @@
                     <div class="" id="">
                         <ul class="navbar-nav mr-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="/maya-corona-test" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Right Now<span class="sr-only"></span></a>
+                                <a class="nav-link" href="/corona" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Right Now<span class="sr-only"></span></a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona-test" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Corona Test</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona-test" target="_blank" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Corona Test</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona/ask-to-maya" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Expert Advice</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona/ask-to-maya" target="_blank"style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">Expert Advice</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/corona/#faq" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">FAQ</a>
+                                <a class="nav-link" href="https://maya.com.bd/corona/#faq" target="_blank" style="font-size:18px;font-weight:500;line-height: 22px;color: #707070;padding-left: 20px">FAQ</a>
                             </li>
                         </ul>
 
@@ -111,13 +111,13 @@
 
 <section style="background-color: #ffffff">
     <div class="mycontainer text-center">
-        <div class="col-xs-10 text-center" style="margin-left:px;padding-top: 20px">
+        <div class="col-xs-10 text-center" style="padding-top: 20px">
                 <img src="/img/loo.png" alt="Workplace" usemap="#workmap" style="margin: 0 auto">
                 <map name="workmap">
                     <area shape="rect" coords="531,175,736,231" alt="Computer" href="https://www.messenger.com/t/maya.yourwellbeingpartner" target="_blank">
-                    <area shape="rect" coords="932,466,,1137,521" alt="Phone" href="/maya-corona-test" target="_blank">
-                    <area shape="rect" coords="932,969,,1137,1004" alt="Phone" href="/auth/login?ask=1" target="_blank">
-                    <area shape="rect" coords="533,1278,,7733,1331" alt="Phone" href="/corona/ask-to-maya" target="_blank">
+                    <area shape="rect" coords="932,466,,1137,521" alt="Phone" href="https://maya.com.bd/maya-corona-test" target="_blank">
+                    <area shape="rect" coords="932,969,,1137,1004" alt="Phone" href="https://bit.ly/3dcqeJD" target="_blank">
+                    <area shape="rect" coords="533,1278,,7733,1331" alt="Phone" href="https://maya.com.bd/corona/ask-to-maya" target="_blank">
                     <area shape="rect" coords="129,876,,292,888" alt="Phone" href="http://blog.maya.com.bd" target="_blank">
                     <area shape="rect" coords="128,929,306,946" alt="Phone" id="myBtn">
 
