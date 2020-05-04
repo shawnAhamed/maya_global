@@ -63,7 +63,7 @@
 <section class="about-us">
     <div class="mycontainer">
         <div class="about-us-banner">
-            <p class="about-us-banner-text" style="">অসাধারণ অনুভবের সাহায্যার্থে, প্রতিদিন।</p>
+            <p class="about-us-banner-text" style="">সবার জন্য ভালো থাকার সহকারী</p>
             <div style=" padding-top:60px">
                 <a class="bannerbtn" href="#speach" style="border-radius:8px;padding:28px 45px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">প্রতিষ্ঠাতার বার্তা</a>
                 <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 40px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left:30px;text-decoration: none;width: 210px">আমাদের পরিষেবা</a>
