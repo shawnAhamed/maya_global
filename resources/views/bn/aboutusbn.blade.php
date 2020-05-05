@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="https://i.imgur.com/zOHubFX.png" type="image/gif">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -231,17 +232,17 @@
                 </div>
                 <div class="grid-4-2 text-center">
                     <img src="https://i.imgur.com/C6CkaVU.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Angur Mahmud Jarman</p>
+                    <p class="thumbheader-team"> <br>Angur Mahmud Jarman</p>
                     <p class="thumsubheader-team">Head of Engineering</p>
                 </div>
                 <div class="grid-4-3 text-center">
                     <img src="https://i.imgur.com/dK8KGIi.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Nouroz Rahman</p><br>
-                    <p class="thumsubheader-team">Head of Growth and Marketplace</p>
+                    <p class="thumbheader-team"><br>Nouroz Rahman</p>
+                    <p class="thumsubheader-team"> Head of Growth and Marketplace</p>
                 </div>
                 <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/YN40ZXi.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Md. Monibur Rahman</p>
+                    <p class="thumbheader-team"> <br>Md. Monibur Rahman</p>
                     <p class="thumsubheader-team">Sr. Manager- Accounts & Control</p>
                 </div>
             </div>
@@ -253,7 +254,7 @@
                 </div>
                 <div class="grid-4-2 text-center">
                     <img src="https://i.imgur.com/hPJMlAu.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Md. Fahmidul Hasan</p><br>
+                    <p class="thumbheader-team">Md. Fahmidul Hasan</p>
                     <p class="thumsubheader-team">Team Lead App & Users Experiences</p>
                 </div>
                 <div class="grid-4-3 text-center">
@@ -263,7 +264,7 @@
                 </div>
                 <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/FqUKmr6.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mukit Murshed</p><br>
+                    <p class="thumbheader-team">Mukit Murshed</p>
                     <p class="thumsubheader-team">Financial Planning & Analysis Lead</p>
                 </div>
             </div>
@@ -276,46 +277,117 @@
                     <p class="thumsubheader-team">Sr. SWE</p>
                 </div>
                 <div class="grid-4-2 text-center">
+                    <img src="https://i.imgur.com/ci86t6X.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Tangina Sharmeen</p>
+                    <p class="thumsubheader-team">Team Lead Medical Expert</p>
+                </div>
+                <div class="grid-4-3 text-center">
+                    <img src="https://i.imgur.com/zjNJ6TN.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Tahmina Rahman</p>
+                    <p class="thumsubheader-team">Sr. Consultant</p>
+                </div>
+                <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/Fvkm0z9.jpg" class="thumbimgteam">
                     <p class="thumbheader-team">Tarequzzaman Khan </p>
                     <p class="thumsubheader-team">Sr. SWE</p>
                 </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/n2Tg0sj.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mir Ershad Hossain</p>
-                    <p class="thumsubheader-team">Sr. Campaign Manager</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/zH6SsDJ.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Ashian Bin Mohid</p>
-                    <p class="thumsubheader-team">Development Manager</p>
-                </div>
+
             </div>
 
 
             <div class="mycontainer" style="height:420px;margin-top:30px">
                 <div class="grid-4-1 text-center">
+                    <img src="https://i.imgur.com/n2Tg0sj.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Mir Ershad Hossain</p>
+                    <p class="thumsubheader-team">Sr. Campaign Manager</p>
+                </div>
+                <div class="grid-4-2 text-center">
+                    <img src="https://i.imgur.com/zH6SsDJ.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Ashian Bin Mohid</p>
+                    <p class="thumsubheader-team">Development Manager</p>
+                </div>
+                <div class="grid-4-3 text-center">
+                    <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="thumbimgteam">
+                    <p class="thumbheader-team">Monzia Mushtaq</p>
+                    <p class="thumsubheader-team">Sr. Mental Health Expert</p>
+                </div>
+                <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/dvSak6X.jpg" class="thumbimgteam">
                     <p class="thumbheader-team">Md. Abdur Rahim Sabuj</p>
                     <p class="thumsubheader-team">Sr. Executive Design & UX</p>
                 </div>
+            </div>
+
+            <div class="mycontainer" style="height:420px;margin-top:30px">
+                <div class="grid-4-1 text-center">
+                    <img src="https://i.imgur.com/W6gBram.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Dr. Sadia Islam Swarna</p><br>
+                    <p class="thumsubheader-team">Medical Expert</p>
+                </div>
+            <div class="grid-4-2 text-center">
+                <img src="https://i.imgur.com/qJtjUwR.jpg" class="thumbimgteam">
+                <p class="thumbheader-team">Khondoker Andalib Hasan Masnoon</p>
+                <p class="thumsubheader-team">Consultant- Growth Team</p>
+            </div>
+            <div class="grid-4-3 text-center">
+                <img src="https://i.imgur.com/SfgvFuM.jpg" class="thumbimgteam">
+                <p class="thumbheader-team">Mohammad Razib Hossain Shuvo</p>
+                <p class="thumsubheader-team">SWE</p>
+            </div>
+            <div class="grid-4-4 text-center">
+                <img src="https://i.imgur.com/z0DqznP.jpg" class="thumbimgteam">
+                <p class="thumbheader-team">Samudra Roy</p><br>
+                <p class="thumsubheader-team">Executive, Business Development </p>
+            </div>
+
+            </div>
+
+            <div class="mycontainer" style="height:420px;margin-top:60px">
+                <div class="grid-4-1 text-center">
+                    <img src="https://i.imgur.com/D6B9du8.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Joynta Shaha</p>
+                    <p class="thumsubheader-team">Project Executive </p>
+                </div>
                 <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/qJtjUwR.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Khondoker Andalib Hasan Masnoon</p>
-                    <p class="thumsubheader-team">Consultant- Growth Team</p>
+                    <img src="https://i.imgur.com/OH3yi6U.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Nowrin Huda</p>
+                    <p class="thumsubheader-team">Jr. Executive HR & Admin</p>
                 </div>
                 <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/SfgvFuM.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mohammad Razib Hossain Shuvo</p>
-                    <p class="thumsubheader-team">SWE</p>
+                    <img src="https://i.imgur.com/SKe0ahV.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">S.M. Gulam Rahman</p>
+                    <p class="thumsubheader-team">Jr. Engineer</p>
                 </div>
                 <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/z0DqznP.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Samudra Roy</p><br>
-                    <p class="thumsubheader-team">Executive, Business Development </p>
+                    <img src="https://i.imgur.com/8JK7ECx.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Shawn Ahamed</p>
+                    <p class="thumsubheader-team">Jr. Software Engineer </p>
                 </div>
             </div>
 
+
+            <div class="mycontainer" style="height:420px;margin-top:60px">
+                <div class="grid-4-1 text-center">
+                    <img src="https://i.imgur.com/py1ooSD.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Md. Mainuddin</p>
+                    <p class="thumsubheader-team">Jr. Software Engineer </p>
+                </div>
+                <div class="grid-4-2 text-center">
+                    <img src="https://i.imgur.com/HEsFbpp.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Afrin Jahan Chowdhury</p>
+                    <p class="thumsubheader-team">Jr. Executive (Data Labeler)</p>
+                </div>
+                <div class="grid-4-3 text-center">
+                    <img src="https://i.imgur.com/oHkzdja.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Munira Hossain</p>
+                    <p class="thumsubheader-team">Jr. Executive, eCommerce</p>
+                </div>
+                <div class="grid-4-4 text-center">
+                    <img src="https://i.imgur.com/LCl7Fvk.jpg" class="thumbimgteam">
+                    <p class="thumbheader-team">Mobasshera Siddiqua</p>
+                    <p class="thumsubheader-team"> Data Labeler & Designer</p>
+                </div>
+            </div>
 
 
         </div>

@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="https://i.imgur.com/zOHubFX.png" type="image/gif">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -113,7 +114,7 @@
             <div class="text-center">
                 <img src="../img/icon/health.png" alt="" style="height: 72px">
                 <div class="caption">
-                    <p style="font-size:24px;color: #363636;">মায়া বট</p>
+                    <p style="font-size:24px;color: #363636;">পরিষেবার ব্যাপ্তি</p>
                     <p style="font-size:36px;font-weight:bold;color: #363636;line-height:20px">১০,২০০,০০০</p>
                     <p style="font-size:20px;line-height:24px;color: #363636">মায়া’র গ্রাহক সংখ্যা যাদেরকে শুরু থেকেই নিরলসভাবে সেবা প্রদান করে আসছে।</p>
                 </div>
@@ -171,7 +172,7 @@
                         <p style="font-size: 24px;font-weight:bold;color: #363636;"><br>নুসরাত জেবিন<br><span style="font-size: 24px;font-weight:400;line-height:30px;color: #363636;">রাজবাড়ী সরকারি কলেজ, বাংলাদেশ</span></p>
                         <br>
                         <br>
-                        <a class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</a>
+                        <a class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding:15px 15px">পুরো গল্পটা দেখুন</a>
 
                     </div>
                 </div>
