@@ -6,6 +6,8 @@
     <link rel="icon" href="https://i.imgur.com/zOHubFX.png" type="image/gif">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <title>Maya | Everyone’s well-being assistant</title>
@@ -243,11 +245,90 @@
         </div>
     </div>
 </section>
+<section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
+    <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
+    <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and many of them are really serious issues.</p>
+<div class="mycontainer" style="height:500px;margin-top:60px">
+   <div class="grid-3-1 text-center" style="color:#BFBFBF">
+       <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+           <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+        <p class="storyuserlocation">Dhaka, Bangladesh</p>
+
+        <stoty style="text-align: center">
+            <p class="storytext">I’m a married man and it’s been 10 months since I got married. We’re trying regularly to get pregnant but have not succeeded. It’ll be really helpful if you can provide some advice.</p>
+        </stoty>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
+
+        </div>
+
+    </div>
+
+    <div class="grid-3-2 text-center">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+            <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+            <p class="storyuserlocation">New York, USA</p>
+
+            <stoty style="text-align: center">
+                <p class="storytext">I feel like to kill myself. I want to talk but can’t express. Today is my birthday and frequently asking myself why I was born. I hate myself.
+                </p>
+            </stoty>
+            <p class="storypostlang" style="">(Question originally posted in Bengali)</p>
+        </div>
+    </div>
+    <div class="grid-3-3 text-center">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+            <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+            <p class="storyuserlocation">Dhaka, Bangladesh</p>
+            <stoty style="text-align: center">
+                <p class="storytext">I’m a 17 year old male, but I like to pretend like I’m a girl. I love to wear girly dresses and makeup. I think my mind is like a girl. I can’t accept my body. I’ve tried to scratch my body with blades several times. Why I’m like that?</p>
+            </stoty>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
+        </div>
+    </div>
+    <div class="grid-3-1 text-center" style="color:#BFBFBF">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: -110px;" onmouseover="hovereffect()">
+            <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+            <p class="storyuserlocation">New Jersey, USA</p>
+
+            <stoty style="text-align: center">
+                <p class="storytext">My penis is a bit curved in the base. Will this cause any problem during intercourse?</p>
+            </stoty>
+            <p class="storypostlang" style="margin-top:-15px">(Question originally posted in Bengali)</p>
+        </div>
+    </div>
+    <div class="grid-3-2 text-center">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-200px">
+            <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+            <p class="storyuserlocation">Poole, UK</p>
+
+            <stoty style="text-align: center">
+                <p class="storytext">I’m 24. I want to know after marriage when I’ll go for first intercourse, how do I understand that my wife didn’t have intercourse before.</p>
+            </stoty>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
+        </div>
+    </div>
+    <div class="grid-3-3 text-center">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:30px">
+            <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+            <p class="storyanonymous">Anonymous User</p>
+            <p class="storyuserlocation">Dhaka, Bangladesh</p>
+            <stoty style="text-align: center">
+                <p class="storytext">What’s mental illness? How do I know I have that?</p>
+            </stoty>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
+        </div>
+    </div>
+</div>
+
+</section>
 
 
-
-
-<section class="footer text-center" style="margin-top:120px;background-color:#314AC4 ">
+<section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
            <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
@@ -263,7 +344,12 @@
     </div>
 </section>
 
+<script>
+    function hovereffect() {
 
+        // document.getElementById("storyhover").style.backgroundColor="#fff"
+    }
+</script>
 
 
 </body>

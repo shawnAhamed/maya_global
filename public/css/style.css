@@ -111,9 +111,6 @@ body{
 }
 
 
-
-
-
 blockquote {
     font-family: Georgia;
     position: relative;
@@ -201,7 +198,36 @@ blockquote cite:before {
 .checked{
     color:#707070;
 }
+.usericon{
+    font-size:60px;
+}
+.storyanonymous{
+    font-size: 14px;
+    color:#BFBFBF;
+    margin-bottom: 0px;
+}
+.storyuserlocation{
+    font-size: 12px;
+    color:#BFBFBF;
+}
+.storypostlang{
+    font-size: 12px;
+    color:#BFBFBF;
+    padding-bottom:40px;
+}
 
+.storytext{
+    font-size: 30px;
+    color: #BFBFBF;
+    font-family: Montserrat;
+    padding: 0px 30px;
+    margin-top: -35px;
+}
+
+
+.storyhover :hover {
+    color: #363636 !important;
+}
 
 
 .video1{
@@ -658,4 +684,31 @@ margin-top: -243px;
     height: 460px;
     width:230px;
 
+}
+
+
+
+
+stoty {
+    font-family: Georgia;
+    position: relative;
+    color: #BFBFBF;
+}
+
+stoty:before {
+    font-size: 80px;
+    content: "\201C";
+    color: #BFBFBF;
+}
+stoty:after {
+    font-size: 80px;
+    content: "\201D";
+    color: #BFBFBF;
+}
+stoty cite:before {
+    font-size: 80px;
+    content: "\2013";
+}
+.sotytexts{
+    color: red !important;
 }
