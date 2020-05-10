@@ -222,7 +222,7 @@
 
                 <div class="video1 text-center">
                     <img src="https://i.imgur.com/NdhIfJh.png" alt="" style="border-radius:5px;width: 270px;">
-                    <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
+                    <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/OnzovVI7Uyc" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
                 </div>
 
                 <div class="video2">
