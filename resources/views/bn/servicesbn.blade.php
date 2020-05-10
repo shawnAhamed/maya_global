@@ -187,8 +187,6 @@
 </section>
 
 
-
-
 <section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">

@@ -26,5 +26,8 @@ class HomeController extends Controller
     public function corona(){
         return view('en.corona');
     }
+    public function test(){
+        return view('bn.test');
+    }
 
 }

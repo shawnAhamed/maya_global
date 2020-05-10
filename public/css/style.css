@@ -712,3 +712,35 @@ stoty cite:before {
 .sotytexts{
     color: red !important;
 }
+
+.modal-dialog {
+    max-width: 800px;
+
+}
+
+.modal-body {
+    position:relative;
+    padding:0px;
+}
+.close {
+    position:absolute;
+    right:-40px;
+    top:0;
+    z-index:999;
+    font-size:2rem;
+    font-weight: normal;
+    color:#fff;
+    opacity:1;
+    background-color: red;
+}
+
+.modal-content{
+    background-color: transparent !important;
+}
+
+.modal-body{
+    padding: 0px;
+    width:1100px;
+    margin-left:-300px;
+    max-height: 100vh;
+}

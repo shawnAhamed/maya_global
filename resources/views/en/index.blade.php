@@ -28,7 +28,6 @@
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
         ga('create', 'UA-24452987-1', 'auto');
         ga('send', 'pageview');
-
         @if(isset($source)&&!empty($source))
         ga('send', 'event', { eventCategory: 'HomePage', eventAction: 'View', eventLabel: '<?php echo $source; ?>'});
         window.location.replace('/');
@@ -84,7 +83,6 @@
         </div>
     </div>
     </div>
-
 </section>
 
 
@@ -95,7 +93,7 @@
         </div>
         <div class="bannercontent">
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
-                <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s well-being assistant.</p>
+                <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s wellbeing assistant.</p>
                 <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                 <div style="padding:15px 30px">
                     <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Download App</a>
@@ -191,17 +189,18 @@
     <div class="mycontainer">
         <div class="mycontainer">
             <div class="mobilebanner">
-                <img src="../img/students.png" class="img-fluid" style="">
+                <img src="https://i.imgur.com/u8D4K0K.png" class="img-fluid" style="">
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">
+                    <br>
                     <blockquote>
-                        <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Now I know what to do during my special days. It’s nothing difficult, I just need to ask Maya. It’s so helpful.<br><br></p>
+                        <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Maya has bought me confidence. It has enriched my knowledge, about things I couldn’t have known before.<br><br></p>
                     </blockquote>
-                    <div style="margin-left:10px">
+                    <div style="margin-left:10px;margin-top:-10px">
                         <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Rajbari Govt College, Bangladesh </span></p>
-                       <br>
-                        <a class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</a>
+                         <br>
+                      <a  data-target="#myModal" class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:30px" > <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"> <img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</button></a>
 
                     </div>
                 </div>
@@ -221,23 +220,30 @@
         <div class="mycontainer">
             <div class="" style="height:180px">
 
-                <div class="video1">
-                    <img src="https://i.imgur.com/0SphqGc.png" alt="" style="border-radius:5px;width: 270px;">
+                <div class="video1 text-center">
+                    <img src="https://i.imgur.com/NdhIfJh.png" alt="" style="border-radius:5px;width: 270px;">
+                    <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
                 </div>
 
                 <div class="video2">
-                    <div class="image">
-                        <img src="https://i.imgur.com/8mmpctY.png" alt="" style="border-radius:5px;width: 270px;">
-                    </div>
+                    <div class="image text-center">
+                        <img src="https://i.imgur.com/tnK7VPR.png" alt="" style="border-radius:5px;width: 270px;">
+                        <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/dfRqQGuFQJU" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
+
+                         </div>
                 </div>
                 <div class="video3">
-                    <div class="image">
-                        <img src="https://i.imgur.com/Krzi3yx.png" alt="" style="border-radius:5px;width: 270px;">
+                    <div class="image text-center">
+                        <img src="https://i.imgur.com/bbvGCKu.png" alt="" style="border-radius:5px;width: 270px;">
+                        <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/W5X1DFMTl94" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
+
+
                     </div>
                 </div>
                 <div class="video4">
-                    <div class="image">
-                        <img src="https://i.imgur.com/5DOSV5T.png" alt="" style="border-radius:5px;width: 270px;">
+                    <div class="image text-center">
+                        <img src="https://i.imgur.com/XCbRqFp.png" alt="" style="border-radius:5px;width: 270px;">
+                        <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/a_EhLCntBCg" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
                     </div>
                 </div>
 
@@ -245,6 +251,29 @@
         </div>
     </div>
 </section>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true" style="font-size:50px">&times;</span>
+                </button>
+                <!-- 16:9 aspect ratio -->
+                <div class="embed-responsive embed-responsive-16by9" id="yt-player">
+                    <iframe height="90vh" width="70%" class="embed-responsive-item" src="https://www.youtube.com/embed/B5xarN0wlR8" id="video"  allowscriptaccess="always" allow="autoplay"></iframe>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
 <section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
     <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
     <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and many of them are really serious issues.</p>
@@ -344,13 +373,68 @@
     </div>
 </section>
 
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
 <script>
     function hovereffect() {
 
         // document.getElementById("storyhover").style.backgroundColor="#fff"
     }
+
+    $('#myModal').on('shown.bs.modal', function () {
+        $('#myInput').trigger('focus')
+    })
+
+
+
+    $(document).ready(function() {
+
+// Gets the video src from the data-src on each button
+
+        var $videoSrc;
+        $('.video-btn').click(function() {
+            $videoSrc = $(this).data( "src" );
+        });
+        console.log($videoSrc);
+
+
+
+// when the modal is opened autoplay it
+        $('#myModal').on('shown.bs.modal', function (e) {
+
+// set the video src to autoplay and not to show related video. Youtube related video is like a box of chocolates... you never know what you're gonna get
+            $("#video").attr('src',$videoSrc + "?autoplay=1&amp;modestbranding=1&amp;showinfo=0" );
+        })
+
+
+
+// stop playing the youtube video when I close the modal
+        $('#myModal').on('hide.bs.modal', function (e) {
+            // a poor man's stop video
+            $("#video").attr('src',$videoSrc);
+        })
+
+
+
+
+
+
+// document ready
+    });
+
+
+
+
 </script>
 
+<script type="text/javascript">
+    $('#myModal').on('hidden.bs.modal', function () {
+        callPlayer('yt-player', 'stopVideo');
+    });
+</script>
 
 </body>
 </html>

@@ -19,6 +19,7 @@ Route::get('/corona','HomeController@corona');
 Route::get('/services','HomeController@services');
 Route::get('/expert','HomeController@expert');
 Route::get('/about','HomeController@aboutus');
+Route::get('/test','HomeController@test');
 
 
 

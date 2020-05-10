@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="icon" href="https://i.imgur.com/zOHubFX.png" type="image/gif">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -161,11 +163,12 @@
     <div class="mycontainer">
         <div class="mycontainer">
             <div class="mobilebanner">
-                <img src="../img/students.png" class="img-fluid" style="">
+                <img src="https://i.imgur.com/u8D4K0K.png" class="img-fluid" style="">
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">
-                    <blockquote>
+                    <br><br>
+                    <blockquote style="margin-top: 30px">
                         <p style="font-family:Hind Siliguri;font-size: 40px;line-height:54px;color: #363636;font-weight:300;margin-left:-10%"><br>আমি জানি বিশেষ দিনগুলোতে আমার কি করা উচিৎ। কাজটা অনেক সোজা, মায়া’কে জিজ্ঞাসা করা। এটা অনেক উপকারী।<br><br><br></p>
                     </blockquote>
                     <div style="margin-left:11px;margin-top:20px">
@@ -218,8 +221,95 @@
 </section>
 
 
+<section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
+    <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">সহজগম্য, নির্ভেজাল, ব্যক্তিগত।</p>
+    <p style="font-size:24px;color: #FFFFFF;">আমাদের বিশেষজ্ঞরা দিনে ৬ সহস্রাধিক প্রশ্নের উত্তর দিয়ে থাকেন এবং এরমধ্যে অনেক প্রশ্ন থাকে যা আসলেই গুরুতর।</p>
+    <div class="mycontainer" style="height:500px;margin-top:60px">
+        <div class="grid-3-1 text-center" style="color:#BFBFBF">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">ঢাকা, বাংলাদেশ</p>
 
-<section class="footer text-center" style="background-color:#314AC4;margin-top: 120px ">
+                <stoty style="text-align: center">
+                    <p class="storytext">আমি একজন বিবাহিত পুরুষ এবং আমাদের দাম্পত্য জীবন ১০ মাস পূর্ণ হয়েছে। প্রতিনিয়ত আমরা ভবিষ্যৎ প্রজন্ম কে দুনিয়ার আলো দেখানোর চেস্টা করেও বিফলে যাচ্ছি। পরামর্শ দিলে উপকৃত হবো।</p>
+                </stoty>
+
+
+            </div>
+
+        </div>
+
+        <div class="grid-3-2 text-center">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">নিউ ইয়র্ক, যুক্তরাষ্ট্র</p>
+                <stoty style="text-align: center">
+                    <p class="storytext">আত্নহত্যা করতে ইচ্ছা করে। আমার কথা বলতে ইচ্ছা করে কিন্তুু বলতে পারিনা। আজকে আমার জন্মদিন, বারবার মনে হচ্ছে আমার জন্ম কেনো হয়েছিলো? ঘেন্না লাগে নিজেকে।</p>
+                </stoty>
+
+            </div>
+        </div>
+        <div class="grid-3-3 text-center">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">ঢাকা, বাংলাদেশ</p>
+
+                <stoty style="text-align: center">
+                    <p class="storytext">আপু, আমার বয়স ১৭। আমি ছেলে। কিন্তু আমার মেয়ের মত থাকতে ভালো লাগে। মেয়েদের জামা-কাপড় পড়তে ভালোলাগে, সাজতে ভালো লাগে। আমার মনটা মেয়েদের মতোই। আমার শরীরটা আমি মেনে নিতে পারিনা। এজন্যেই কয়েকবার শরীরে ব্লেড দিয়ে কেটেছিলাম। আমি এমন কেন?</p>
+                </stoty>
+
+
+            </div>
+        </div>
+        <div class="grid-3-1 text-center" style="color:#BFBFBF">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: -150px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">ঢাকা, বাংলাদেশ</p>
+
+                <stoty style="text-align: center">
+                    <p class="storytext">আমি একজন বিবাহিত পুরুষ এবং আমাদের দাম্পত্য জীবন ১০ মাস পূর্ণ হয়েছে। প্রতিনিয়ত আমরা ভবিষ্যৎ প্রজন্ম কে দুনিয়ার আলো দেখানোর চেস্টা করেও বিফলে যাচ্ছি। পরামর্শ দিলে উপকৃত হবো।</p>
+                </stoty>
+
+
+            </div>
+
+        </div>
+
+        <div class="grid-3-2 text-center">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-195px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">নিউ ইয়র্ক, যুক্তরাষ্ট্র</p>
+                <stoty style="text-align: center">
+                    <p class="storytext">আত্নহত্যা করতে ইচ্ছা করে। আমার কথা বলতে ইচ্ছা করে কিন্তুু বলতে পারিনা। আজকে আমার জন্মদিন, বারবার মনে হচ্ছে আমার জন্ম কেনো হয়েছিলো? ঘেন্না লাগে নিজেকে।</p>
+                </stoty>
+
+            </div>
+        </div>
+        <div class="grid-3-3 text-center">
+            <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
+                <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
+                <p class="storyanonymous">নাম প্রকাশে অনিচ্ছুক</p>
+                <p class="storyuserlocation">ঢাকা, বাংলাদেশ</p>
+
+                <stoty style="text-align: center">
+                    <p class="storytext">মানসিক রোগ কি? আমি মানসিক রোগী কিনা কিভাবে বুঝবো?</p>
+                </stoty>
+
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<section class="footer text-center" style="background-color:#314AC4;">
     <div class="mycontainer" style="background-color: #314AC4">
         <div class="mycontainer foterelement">
             <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
