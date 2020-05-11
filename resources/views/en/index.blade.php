@@ -96,7 +96,7 @@
                 <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s wellbeing assistant.</p>
                 <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
                 <div style="padding:15px 30px">
-                    <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Download App</a>
+                    <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px" target="_blank">Download App</a>
                     <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Services</a>
                 </div>
             </div>
@@ -107,7 +107,7 @@
                 <img src="../img/icon/icon_article.png" style="float:left;height: 21px;width: 24px;margin-top:27px;"/>
             </div>
             <div style="width:545px;float: right;margin-top:20px;padding-left: 20px;">
-                <p style="font-size:16px;color: #707070;line-height: 19px;">Coronavirus (COVID-19): Symptom checker,latest updates and how to get care.</p>
+                <a href="/corona" style="text-decoration: none">   <p style="font-size:16px;color: #707070;line-height: 19px;">Coronavirus (COVID-19): Symptom checker,latest updates and how to get care.</p></a>
             </div>
         </div>
     </div>

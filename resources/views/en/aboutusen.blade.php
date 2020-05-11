@@ -249,11 +249,8 @@
                     <p class="thumbheader-team">Shadman Soumik</p>
                     <p class="thumsubheader-team">Product team</p>
                 </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/hPJMlAu.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Fahmidul Hasan</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
+
+
                 <div class="grid-4-3 text-center">
                     <img src="https://maya.com.bd/img/footer/team/radh.jpg" class="thumbimgteam">
                     <p class="thumbheader-team">Radh Ahmed</p>
@@ -354,7 +351,7 @@
                 <div class="grid-4-3 text-center">
                     <img src="https://i.imgur.com/SKe0ahV.jpg" class="thumbimgteam">
                     <p class="thumbheader-team">Gulam Rahman</p>
-                    <p class="thumsubheader-team">Jr. Engineer</p>
+                    <p class="thumsubheader-team">Engineering team</p>
                 </div>
                 <div class="grid-4-4 text-center">
                     <img src="https://i.imgur.com/8JK7ECx.jpg" class="thumbimgteam">
