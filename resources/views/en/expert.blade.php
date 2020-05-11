@@ -188,7 +188,7 @@
         </div>
         <div class="downloadbtn">
             <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
-            <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+            <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
 
 

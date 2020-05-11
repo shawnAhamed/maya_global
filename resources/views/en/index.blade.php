@@ -122,7 +122,7 @@
                 <img src="../img/icon/btrfly.png" alt="" style="height:89px;width:89px ">
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom: 0rem;">Maya Bot</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">7,000,000</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">7 million</p>
                     <p style="font-size:16px;color: #363636">Instant interactions with Maya bot in a month, in 4 languages.</p>
                 </div>
             </div>
@@ -142,7 +142,7 @@
                 <img src="../img/icon/health.png" alt="" style="height:90px;width:82px;">
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom:0rem;">People Served</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10,200,000</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10 million</p>
                     <p style="font-size:16px;color: #363636">Since the inception, Maya is tirelessly serving its users.</p>
                 </div>
             </div>
@@ -158,7 +158,7 @@
             <div class="mycontainer">
                 <div style="background-color: #F0F0F0;height: 1100px;padding:40px 0px">
                     <div class="mobilebanner text-center" style="margin-bottom:100px">
-                        <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
+                        <img src="https://i.imgur.com/JfDL4G5.png" class="img-fluid" style="height:864px;margin: 0 auto;margin-top:80px">
                     </div>
                     <div class="mobilebannercnt" style="margin-top:80px">
                         <p style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:40px 0px;">All in one app and it’s simple!</p>
@@ -173,7 +173,7 @@
                         <hr style="border: transparent;border-bottom: 1px dashed #707070;">
                         <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
                         <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a>
-                        <a  style="text-decoration: none;padding-left:10px" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
+                        <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
                         <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:20px">
                     </div>
                </div>
@@ -198,9 +198,9 @@
                         <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Maya has bought me confidence. It has enriched my knowledge, about things I couldn’t have known before.<br><br></p>
                     </blockquote>
                     <div style="margin-left:10px;margin-top:-10px">
-                        <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Rajbari Govt College, Bangladesh </span></p>
+                        <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Bangladesh </span></p>
                          <br>
-                      <a  data-target="#myModal" class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:30px" > <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"> <img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</button></a>
+                      <a  data-target="#myModal" class="storywatch" style="text-decoration: none;padding:18px 15px;margin-top:30px" > <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"> <img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</button></a>
 
                     </div>
                 </div>
@@ -242,8 +242,8 @@
                 </div>
                 <div class="video4">
                     <div class="image text-center">
-                        <img src="https://i.imgur.com/XCbRqFp.png" alt="" style="border-radius:5px;width: 270px;">
-                        <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/a_EhLCntBCg" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
+                        <img src="https://i.imgur.com/vnCRQp3.png" alt="" style="border-radius:5px;width: 270px;">
+                        <button  type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/NMIoGUhuImg" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"><img src="https://i.imgur.com/2LSO5lb.png" style="margin-top:-210px;"></button>
                     </div>
                 </div>
 

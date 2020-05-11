@@ -97,7 +97,7 @@
                 <img src="../img/icon/btrfly.png" alt="" style="height: 72px">
                 <div class="caption">
                     <p style="font-size:24px;color: #363636;">মায়া বট</p>
-                    <p style="font-size:36px;font-weight:bold;color: #363636;line-height:20px">৭,০০০,০০০</p>
+                    <p style="font-size:36px;font-weight:bold;color: #363636;line-height:20px">৭ মিলিয়ন </p>
                     <p style="font-size:20px;line-height:24px;color: #363636">মায়া বটের সাথে ৪টি ভাষায় প্রতি মাসের তাৎক্ষণিক মিথষ্ক্রিয়া।</p>
                 </div>
             </div>
@@ -117,7 +117,7 @@
                 <img src="../img/icon/health.png" alt="" style="height: 72px">
                 <div class="caption">
                     <p style="font-size:24px;color: #363636;">পরিষেবার ব্যাপ্তি</p>
-                    <p style="font-size:36px;font-weight:bold;color: #363636;line-height:20px">১০,২০০,০০০</p>
+                    <p style="font-size:36px;font-weight:bold;color: #363636;line-height:20px">১০ মিলিয়ন</p>
                     <p style="font-size:20px;line-height:24px;color: #363636">মায়া’র গ্রাহক সংখ্যা যাদেরকে শুরু থেকেই নিরলসভাবে সেবা প্রদান করে আসছে।</p>
                 </div>
             </div>
@@ -132,7 +132,7 @@
     <div class="mycontainer">
         <div class="" style="height:1020px">
             <div class="mobilebanner text-center">
-                <img src="../img/appart.png" class="img-fluid" style="max-height: 864px;margin: 0 auto;margin-top:80px">
+                <img src="https://i.imgur.com/JfDL4G5.png" class="img-fluid" style="height: 864px;margin: 0 auto;margin-top:80px">
             </div>
             <div class="mobilebannercnt" style="margin-top:80px">
                 <p style="font-size:64px;line-height:72px;color:#314AC4;font-weight: bold;padding:40px 0px;">এক অ্যাপে সবকিছু, সহজে।</p>
@@ -169,10 +169,10 @@
                 <div class="mobilebannercntblqt">
                     <br><br>
                     <blockquote style="margin-top: 30px">
-                        <p style="font-family:Hind Siliguri;font-size: 40px;line-height:54px;color: #363636;font-weight:300;margin-left:-10%"><br>আমি জানি বিশেষ দিনগুলোতে আমার কি করা উচিৎ। কাজটা অনেক সোজা, মায়া’কে জিজ্ঞাসা করা। এটা অনেক উপকারী।<br><br><br></p>
+                        <p style="font-family:Hind Siliguri;font-size: 40px;line-height:54px;color: #363636;font-weight:300;margin-left:-10%"><br>আমি জানি বিশেষ দিনগুলোতে আমার কি করা উচিৎ। কাজটা অনেক সোজা, মায়া’কে জিজ্ঞাসা করা। এটা অনেক উপকারী।<br><br></p>
                     </blockquote>
                     <div style="margin-left:11px;margin-top:20px">
-                        <p style="font-size: 24px;font-weight:bold;color: #363636;"><br>নুসরাত জেবিন<br><span style="font-size: 24px;font-weight:400;line-height:30px;color: #363636;">রাজবাড়ী সরকারি কলেজ, বাংলাদেশ</span></p>
+                        <p style="font-size: 24px;font-weight:bold;color: #363636;"><br>নুসরাত জেবিন<br><span style="font-size: 24px;font-weight:400;line-height:30px;color: #363636;">বাংলাদেশ</span></p>
                         <br>
                         <br>
                         <a class="storywatch" style="text-decoration: none;padding:20px 15px;margin-top:20px" href="#" ><img src="../img/icon/icon_play.png" style="padding:15px 15px">পুরো গল্পটা দেখুন</a>
