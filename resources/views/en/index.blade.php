@@ -143,7 +143,7 @@
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom:0rem;">People Served</p>
                     <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10 million</p>
-                    <p style="font-size:16px;color: #363636">Since its inception, Maya is tirelessly serving its users.</p>
+                    <p style="font-size:16px;color: #363636">Since its inception, Maya is using different channels to serve its users wherever they are.</p>
                 </div>
             </div>
 
