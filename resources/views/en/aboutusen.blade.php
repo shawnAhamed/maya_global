@@ -23,9 +23,9 @@
                         <li class="float-left" >
                             <a class="anchor" href="/">Home <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class=" float-left">
-                            <a class="anchor" href="/corona">Coronavirus</a>
-                        </li>
+{{--                        <li class=" float-left">--}}
+{{--                            <a class="anchor" href="/corona">Coronavirus</a>--}}
+{{--                        </li>--}}
                         <li class=" float-left">
                             <a class="anchor" href="/services">Services</a>
                         </li>
@@ -125,27 +125,28 @@
         <p class="heading-regular text-center">Our users are all over the world.</p>
 {{--        <p class="sub-heading-regular text-center" style="">To be everyone’s wellbeing assistant across South Asia and the Middle East.</p>--}}
     </div>
-    <div class="mycontainer" style="height:410px;margin-top:60px">
-        <div class="grid-3-1 text-center">
-            <img src="https://i.imgur.com/kb8c5O3.png" class="" style="height: 200px;width: 200px">
-            <h1 class="thumbheader-team">Bangladesh</h1>
-            <p class="thumsubheader-team">Since 2009</p>
-            <p class="thumbdesc-team">We started our journey here and now the largest health tech platform. </p>
-        </div>
-        <div class="grid-3-2 text-center">
-            <img src="https://i.imgur.com/765BT5k.png" class="thumbim" style="height: 200px;width: 200px">
-            <h1 class="thumbheader-team">Singapore</h1>
-            <p class="thumsubheader-team">Since 2019</p>
-            <p class="thumbdesc-team">We opened our regional HQ at Singapore to expand our horizon.</p>
-        </div>
-        <div class="grid-3-3 text-center">
-            <img src="https://i.imgur.com/w1XeKWs.png" class="thumbim" style="height: 200px;width: 200px">
-            <h1 class="thumbheader-team">UAE</h1>
-            <p class="thumsubheader-team">Since 2020</p>
-            <p class="thumbdesc-team">We have a big user base at Middle East and we want to serve better.</p>
-        </div>
-    </div>
+{{--    <div class="mycontainer" style="height:410px;margin-top:60px">--}}
+{{--        <div class="grid-3-1 text-center">--}}
+{{--            <img src="https://i.imgur.com/kb8c5O3.png" class="" style="height: 200px;width: 200px">--}}
+{{--            <h1 class="thumbheader-team">Bangladesh</h1>--}}
+{{--            <p class="thumsubheader-team">Since 2009</p>--}}
+{{--            <p class="thumbdesc-team">We started our journey here and now the largest health tech platform. </p>--}}
+{{--        </div>--}}
+{{--        <div class="grid-3-2 text-center">--}}
+{{--            <img src="https://i.imgur.com/765BT5k.png" class="thumbim" style="height: 200px;width: 200px">--}}
+{{--            <h1 class="thumbheader-team">Singapore</h1>--}}
+{{--            <p class="thumsubheader-team">Since 2019</p>--}}
+{{--            <p class="thumbdesc-team">We opened our regional HQ at Singapore to expand our horizon.</p>--}}
+{{--        </div>--}}
+{{--        <div class="grid-3-3 text-center">--}}
+{{--            <img src="https://i.imgur.com/w1XeKWs.png" class="thumbim" style="height: 200px;width: 200px">--}}
+{{--            <h1 class="thumbheader-team">UAE</h1>--}}
+{{--            <p class="thumsubheader-team">Since 2020</p>--}}
+{{--            <p class="thumbdesc-team">We have a big user base at Middle East and we want to serve better.</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
+    @include('partial.map')
 
 
 
@@ -158,10 +159,10 @@
         </div>
     </div>
 
-        <div class="teampicture" style="text-align: center;height:635px">
+{{--        <div class="teampicture" style="text-align: center;height:635px">--}}
 {{--                        <img src="/img/team.png" style="width: 1170px">--}}
 
-        </div>
+{{--        </div>--}}
 
 
 </section>
@@ -397,7 +398,7 @@
 
 
 <section class="pressmedia">
-    <div class="mycontainer" style="text-align: center;margin-top:30px;padding-bottom:60px">
+    <div class="mycontainer" style="text-align: center;margin-top:40px;padding-bottom:60px">
         <p class="" style="font-size: 48px;line-height:58px;color: #363636;padding-top:30px">Maya in News</p>
         <p class="" style="font-size:24px;line-height:29px;color: #363636;margin-top: 20px">We made headlines for many reasons on local and international medias. </p>
         <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">

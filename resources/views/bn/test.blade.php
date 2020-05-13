@@ -1,38 +1,7 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
-</head>
+
 <style>
-    body {margin:2rem;}
-
-    .modal-dialog {
-        max-width: 800px;
-        margin: 30px auto;
-    }
-
-    .modal-body {
-        position:relative;
-        padding:0px;
-    }
-    .close {
-        position:absolute;
-        right:-30px;
-        top:0;
-        z-index:999;
-        font-size:2rem;
-        font-weight: normal;
-        color:#fff;
-        opacity:1;
-    }
-
     .land {
         fill: #CCCCCC;
         fill-opacity: 1;
@@ -77,8 +46,8 @@
     }
 
 </style>
-<body>
-<h1>Hello, world!</h1>
+
+
 
 
 

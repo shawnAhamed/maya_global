@@ -23,9 +23,9 @@
                         <li class="float-left" >
                             <a class="anchor" href="/">Home <span class="sr-only">(current)</span></a>
                         </li>
-                        <li class=" float-left">
-                            <a class="anchor" href="/corona">Coronavirus</a>
-                        </li>
+{{--                        <li class=" float-left">--}}
+{{--                            <a class="anchor" href="/corona">Coronavirus</a>--}}
+{{--                        </li>--}}
                         <li class=" float-left">
                             <a class="anchor active" href="/services">Services</a>
                         </li>
@@ -60,7 +60,7 @@
 
 <section class="servicetag">
     <div class="mycontainer">
-        <p style="font-size: 90px;line-height: 110px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve millions every month, in different ways.</p>
+        <p style="font-size:60px;line-height:70px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve millions every month, in different ways.</p>
         <hr style="border:5px solid #613ABD;margin-top:20px">
     </div>
 </section>
@@ -149,7 +149,7 @@
 
 </section>
 
-<section class="joinmaya">
+<section class="joinmaya" style="height:250px">
     <div class="mycontainer">
 
         <h1 class="jonmayatext">Want to be a Maya Expert?</h1>
@@ -163,26 +163,26 @@
 </section>
 
 
-<section class="kioskbanner">
-        <div class="kiosshow">
-            <div class="mycontainer">
-                <div class="" style="width:750px;margin-left: 200px">
-                <img src="/img/servicepage/kiosk.png" style="margin-top: 60px">
-                    <div style="margin-top: 30px">
-                        <p style="font-size: 70px;font-weight:500;color:#314AC4">Maya Kiosk</p>
-                        <p style="font-size:30px;font-weight:400;line-height:36px;color:#363636">A unique tool to setup inside the workplace to offer basic healthcare services to the workers.</p>
-                    </div>
+{{--<section class="kioskbanner">--}}
+{{--        <div class="kiosshow">--}}
+{{--            <div class="mycontainer">--}}
+{{--                <div class="" style="width:750px;margin-left: 200px">--}}
+{{--                <img src="/img/servicepage/kiosk.png" style="margin-top: 60px">--}}
+{{--                    <div style="margin-top: 30px">--}}
+{{--                        <p style="font-size: 70px;font-weight:500;color:#314AC4">Maya Kiosk</p>--}}
+{{--                        <p style="font-size:30px;font-weight:400;line-height:36px;color:#363636">A unique tool to setup inside the workplace to offer basic healthcare services to the workers.</p>--}}
+{{--                    </div>--}}
 
-                    <div style=" margin-top:60px">
-                        <a class="bannerbtn" href="mailto:kiosk@maya.com.bd" target="_blank" style="border-radius:8px;padding:22px 25px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">Ask for a Demo</a>
-                        <a class="bannerbtn" href="https://bit.ly/3d9CtXo" target="_blank" style="border-radius:8px;padding:22px 15px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">Product Features</a>
-                    </div>
-                    <p style="font-size:16px;font-weight:500;line-height: 36px;color: #363636;margin-top:30px">Explore other exclusive tools built for business!</p>
+{{--                    <div style=" margin-top:60px">--}}
+{{--                        <a class="bannerbtn" href="mailto:kiosk@maya.com.bd" target="_blank" style="border-radius:8px;padding:22px 25px;background-color:#ffffff;color:#363636;font-size:16px;text-decoration: none;line-height:36px;font-weight:500;width:170px">Ask for a Demo</a>--}}
+{{--                        <a class="bannerbtn" href="https://bit.ly/3d9CtXo" target="_blank" style="border-radius:8px;padding:22px 15px;background-color:#C94D5E;color: #ffffff;font-size: 16px;line-height:36px;font-weight:500;margin-left:30px;text-decoration: none;width:170px">Product Features</a>--}}
+{{--                    </div>--}}
+{{--                    <p style="font-size:16px;font-weight:500;line-height: 36px;color: #363636;margin-top:30px">Explore other exclusive tools built for business!</p>--}}
 
-                </div>
-            </div>
-        </div>
-</section>
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--</section>--}}
 
 
 

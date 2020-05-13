@@ -49,9 +49,9 @@
                     <li class="float-left" >
                         <a class="anchor active" href="/">Home<span class="sr-only">(current)</span></a>
                     </li>
-                    <li class=" float-left">
-                        <a class="anchor" href="/corona">Coronavirus</a>
-                    </li>
+{{--                    <li class=" float-left">--}}
+{{--                        <a class="anchor" href="/corona">Coronavirus</a>--}}
+{{--                    </li>--}}
                     <li class=" float-left">
                         <a class="anchor" href="/services">Services</a>
                     </li>
