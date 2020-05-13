@@ -163,7 +163,7 @@
     <div class="mycontainer">
         <div class="mycontainer">
             <div class="mobilebanner">
-                <img src="https://i.imgur.com/u8D4K0K.png" class="img-fluid" style="">
+                <img src="https://i.imgur.com/BmmCsJt.jpg" class="img-fluid" style="">
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">

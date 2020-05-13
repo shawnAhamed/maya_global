@@ -94,8 +94,8 @@
         <div class="bannercontent">
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
                 <p style="font-size:80px;line-height:97px;color: #fff;padding:15px 30px;">Everyone’s wellbeing assistant.</p>
-                <p style="font-size:30px;line-height:37px;color: #fff;padding:15px 30px">Maya connects you to doctors, mental health counsellors and wellbeing experts anonymously.</p>
-                <div style="padding:20px 30px">
+                <p style="font-size:30px;line-height:37px;color: #fff;padding:15px 25px">Maya connects you to doctors, mental health counsellors and vetted wellbeing experts.</p>
+                <div style="padding:40px 30px">
                     <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px" target="_blank">Download App</a>
                     <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Services</a>
                 </div>
@@ -189,7 +189,7 @@
     <div class="mycontainer">
         <div class="mycontainer">
             <div class="mobilebanner">
-                <img src="https://i.imgur.com/u8D4K0K.png" class="img-fluid" style="">
+                <img src="https://i.imgur.com/BmmCsJt.jpg" class="img-fluid" style="">
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">
@@ -197,7 +197,7 @@
                     <blockquote>
                         <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Maya has brought me confidence. With the right advice, I am empowered to make my own decisions.<br><br></p>
                     </blockquote>
-                    <div style="margin-left:10px;margin-top:-10px">
+                    <div style="margin-left:10px;margin-top:-15px">
                         <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Bangladesh </span></p>
                          <br>
                       <a  data-target="#myModal" class="storywatch" style="text-decoration: none;padding:18px 15px;margin-top:30px" > <button type="button" class="btn btn-primary video-btn" data-toggle="modal" data-src="https://www.youtube.com/embed/B5xarN0wlR8" data-target="#myModal" style="background-color: transparent;border: none;color: #707070"> <img src="../img/icon/icon_play.png" style="padding:15px 15px">Watch the Story</button></a>
