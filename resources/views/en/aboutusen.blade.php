@@ -404,32 +404,32 @@
         <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
         <div class="mycontainer" style="height:182px;">
             <div class="grid-4-1 text-center">
-               <a href="https://thetechportal.com/2015/09/04/maya-com-bd/"><img src="https://i.imgur.com/xwYdWcV.jpg" style="margin-top:60px"></a>
+               <a href="https://thetechportal.com/2015/09/04/maya-com-bd/" target="_blank"><img src="https://i.imgur.com/xwYdWcV.jpg" style="margin-top:60px"></a>
             </div>
             <div class="grid-4-2 text-center">
-                <a href="https://www.globalmomschallenge.org/2015/04/newsday-tuesday-app-womens-health-bangladesh/"> <img src="https://i.imgur.com/izJ2KcT.jpg" style="margin-top:60px"></a>
+                <a href="https://www.globalmomschallenge.org/2015/04/newsday-tuesday-app-womens-health-bangladesh/" target="_blank"> <img src="https://i.imgur.com/izJ2KcT.jpg" style="margin-top:60px"></a>
             </div>
 
             <div class="grid-4-3 text-center" style="margin-top:60px">
-                <a href="https://womenintheworld.com/2015/03/25/health-app-is-designed-with-a-womans-touch-and-is-just-for-women/"> <img src="https://i.imgur.com/K3sOMw1.jpg"></a>
+                <a href="https://womenintheworld.com/2015/03/25/health-app-is-designed-with-a-womans-touch-and-is-just-for-women/" target="_blank"> <img src="https://i.imgur.com/K3sOMw1.jpg"></a>
             </div>
             <div class="grid-4-4 text-center" style="margin-top:60px">
-                <a href="https://futurestartup.com/2016/03/23/mayas-bold-mission/">  <img src="/img/fs.png" ></a>
+                <a href="https://futurestartup.com/2016/03/23/mayas-bold-mission/" target="_blank">  <img src="/img/fs.png" ></a>
             </div>
         </div>
         <div class="mycontainer" style="height:152px;">
             <div class="grid-4-1 text-center">
-                <a href="http://www.brac.net/latest-news/item/691-maya-apa-help-at-hand-bangladesh-s-first-app-by-women-for-women"> <img src="https://i.imgur.com/8TLxm7y.jpg" style="margin-top:30px"></a>
+                <a href="http://www.brac.net/latest-news/item/691-maya-apa-help-at-hand-bangladesh-s-first-app-by-women-for-women" target="_blank"> <img src="https://i.imgur.com/8TLxm7y.jpg" style="margin-top:30px"></a>
             </div>
             <div class="grid-4-2 text-center">
                 <a href="http://ijd2016.tdg.ch/?chapitre=chmaya">  <img src="https://i.imgur.com/jZwWKcR.jpg" style="margin-top:30px"></a>
             </div>
 
             <div class="grid-4-3 text-center" style="margin-top:30px">
-                <a href="https://www.networkedindia.com/2015/07/16/a-health-info-app-built-by-women-for-women-in-bangladesh/">  <img src="https://i.imgur.com/Hm8ODpe.jpg"></a>
+                <a href="https://www.networkedindia.com/2015/07/16/a-health-info-app-built-by-women-for-women-in-bangladesh/" target="_blank">  <img src="https://i.imgur.com/Hm8ODpe.jpg"></a>
             </div>
             <div class="grid-4-4 text-center" style="margin-top:30px">
-                <a href="https://icetoday.net/2017/01/rendezvous-with-the-geniuses-behind-the-app/">  <img src="https://i.imgur.com/2IKjRTv.jpg"></a>
+                <a href="https://icetoday.net/2017/01/rendezvous-with-the-geniuses-behind-the-app/" target="_blank">  <img src="https://i.imgur.com/2IKjRTv.jpg"></a>
             </div>
         </div>
         <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
