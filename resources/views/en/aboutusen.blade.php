@@ -62,10 +62,10 @@
     <div class="mycontainer">
         <div class="about-us-banner">
             <p class="about-us-banner-text">Asking for help should be a dialogue, so we respond to each unique problem. We use the best tools of technology for efficiency and to drive sustainability. </p>
-{{--            <div style=" padding-top:60px">--}}
-{{--                <a class="bannerbtn" href="#foundernote" style="border-radius:8px;padding:28px 36px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Founder’s Note</a>--}}
-{{--                <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left:30px;text-decoration: none;width: 210px">Our Services</a>--}}
-{{--            </div>--}}
+            <div style=" padding-top:60px">
+                <a class="bannerbtn" href="#foundernote" style="border-radius:8px;padding:28px 36px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Founder’s Note</a>
+                <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left:30px;text-decoration: none;width: 210px">Our Services</a>
+            </div>
         </div>
     </div>
 
