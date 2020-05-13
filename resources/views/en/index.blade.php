@@ -332,7 +332,7 @@
         </div>
     </div>
     <div class="grid-3-2 text-center">
-        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-200px">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-155px">
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">Poole, UK</p>
