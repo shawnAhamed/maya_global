@@ -155,7 +155,7 @@
         <h1 class="jonmayatext">Want to be a Maya Expert?</h1>
         <h1 class="jonmayatext2">It’s much more than just helping people.</h1>
         <div class="joinmayabtn" style="text-align: center;margin-top:50px;">
-            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;">Learn More</a>
+            <a href="/expert" class="joinmayabtntxt" style="text-decoration: none;">Learn More</a>
             <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;margin-left:20px">Join Now!</a>
         </div>
     </div>
