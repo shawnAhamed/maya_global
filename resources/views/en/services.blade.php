@@ -60,7 +60,7 @@
 
 <section class="servicetag">
     <div class="mycontainer">
-        <p style="font-size:60px;line-height:70px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve millions every month, in different ways.</p>
+        <p style="font-size:60px;line-height:70px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve millions every month by making access to help convenient, safe and meaningful</p>
         <hr style="border:5px solid #613ABD;margin-top:20px">
     </div>
 </section>
@@ -69,7 +69,7 @@
         <div class="grid-6-1 text-center">
             <img src="/img/servicepage/sbfly.png">
             <div class="servicedesc">
-            <p class="thumsubheader-service">Our bot instantly responds to basic health issues.</p>
+            <p class="thumsubheader-service">Our bot instantly responds to basic health issues. </p>
             </div>
         </div>
         <div class="grid-6-2 text-center">
@@ -87,19 +87,19 @@
         <div class="grid-6-4 text-center">
             <img src="/img/servicepage/shealth.png">
             <div class="servicedesc">
-            <p class="thumsubheader-service">We offer varieties of mental health services.</p>
+            <p class="thumsubheader-service">Ask questions about mental health, get counselling.</p>
             </div>
         </div>
         <div class="grid-6-5 text-center">
             <img src="/img/servicepage/sshop.png">
             <div class="servicedesc">
-            <p class="thumsubheader-service">Order personal products, get delivered privately.</p>
+            <p class="thumsubheader-service">Order personal products, get it delivered discreetly.</p>
             </div>
         </div>
         <div class="grid-6-6 text-center">
             <img src="/img/servicepage/sheart.png">
             <div class="" style="margin-top:37px">
-            <p class="thumsubheader-service">Keep reading and learn more about your health.</p>
+            <p class="thumsubheader-service">Stay informed, read tips, learn important facts to stay healthy</p>
             </div>
         </div>
     </div>

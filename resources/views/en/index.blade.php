@@ -171,7 +171,7 @@
                         <span class="fa fa-star-half-o" style="color: #707070;"></span>
                         <span style="padding-left: 10px;color: #363636;font-size:20px;font-weight: 400;line-height:24px">4.6 Overall rating</span>
                         <hr style="border: transparent;border-bottom: 1px dashed #707070;">
-                        <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS, Web and Free Basics.</p>
+                        <p style="color: #363636;font-size: 30px;line-height:37px;font-weight: 400;padding: 20px 0px;">Maya is re-inventing the way people in developing countries access vetted expert advice. We are accessible through Android, iOS and Web.</p>
                         <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a>
                         <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8" ><img src="../img/icon/istore.png" style="padding-right:10px;max-height: 60px;width: 170px;"></a><br>
                         <img src="../img/QR.png" class="img-fluid" style="max-height:150px;margin-top:20px">
@@ -195,7 +195,7 @@
                 <div class="mobilebannercntblqt">
                     <br>
                     <blockquote>
-                        <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Maya has bought me confidence. It has enriched my knowledge, about things I couldn’t have known before.<br><br></p>
+                        <p style="font-size: 40px;font-family: Montserrat;color: #363636;font-weight: 300;margin-left:-11%"><br>Maya has brought me confidence. With the right advice, I am empowered to make my own decisions.<br><br></p>
                     </blockquote>
                     <div style="margin-left:10px;margin-top:-10px">
                         <p style="font-size: 24px;font-family: Montserrat;color: #363636;"><br>Nusrat Jebin <br> <span style="font-size: 20px;font-family: Montserrat;font-weight:400;line-height:30px;color: #363636;">Bangladesh </span></p>
@@ -277,7 +277,8 @@
 <section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
     <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
     <p style="font-size:24px;color: #FFFFFF;">
-        Our experts answer over 6,000 queries everyday and provide timely advice for urgent physical and mental issues, ranging from serious illnesses to everyday </p>
+
+        Our experts answer over 6,000 queries everyday and provide timely advice for physical and mental issues, ranging from urgent serious illnesses to the everyday common cold.</p>
 <div class="mycontainer" style="height:500px;margin-top:60px">
    <div class="grid-3-1 text-center" style="color:#BFBFBF">
        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
@@ -301,7 +302,7 @@
             <p class="storyuserlocation">New York, USA</p>
 
             <stoty style="text-align: center">
-                <p class="storytext">I feel like to kill myself. I want to talk but can’t express. Today is my birthday and frequently asking myself why I was born. I hate myself.
+                <p class="storytext">I feel like to kill myself. I want to talk but can’t express. Today is my birthday and I am continuously thinking,”why I was even born?”. I hate myself.
                 </p>
             </stoty>
             <p class="storypostlang" style="">(Question originally posted in Bengali)</p>
@@ -325,7 +326,7 @@
             <p class="storyuserlocation">New Jersey, USA</p>
 
             <stoty style="text-align: center">
-                <p class="storytext">My penis is a bit curved in the base. Will this cause any problem during intercourse?</p>
+                <p class="storytext">My 5 year old daughter gets sever coughing fits in the middle of the night. She describes a crawling and itching sensation in her chest. What can I do to help her?</p>
             </stoty>
             <p class="storypostlang" style="margin-top:-15px">(Question originally posted in Bengali)</p>
         </div>
@@ -337,7 +338,7 @@
             <p class="storyuserlocation">Poole, UK</p>
 
             <stoty style="text-align: center">
-                <p class="storytext">I’m 24. I want to know after marriage when I’ll go for first intercourse, how do I understand that my wife didn’t have intercourse before.</p>
+                <p class="storytext">I am 35, can I still get vaccinated against cervical cancer? If so, how many doses are required?</p>
             </stoty>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
@@ -348,7 +349,7 @@
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">Dhaka, Bangladesh</p>
             <stoty style="text-align: center">
-                <p class="storytext">What’s mental illness? How do I know I have that?</p>
+                <p class="storytext">What’s mental illness? How do I know if I have that?</p>
             </stoty>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
