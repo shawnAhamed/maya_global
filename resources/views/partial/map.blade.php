@@ -24,13 +24,13 @@
 
     .tooltiptext {
         display: none;
-        width: 120px;
         background-color: #C94D5E;
         color: #fff;
         text-align: center;
         border-radius: 6px;
         position: fixed;
         z-index: 1;
+        padding: 5px 5px;
     }
 
     .tooltiptext.active {
