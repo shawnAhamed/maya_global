@@ -274,11 +274,9 @@
 
 
 
-<section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
+<section style="margin-top:60px;background-color:#314AC4;text-align: center;height:2030px" >
     <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
-    <p style="font-size:24px;color: #FFFFFF;">
-
-        Our experts answer over 6,000 queries everyday and provide timely advice for physical and mental issues, ranging from urgent serious illnesses to the everyday common cold.</p>
+    <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and provide timely advice for physical and mental issues, ranging from urgent serious illnesses to the everyday common cold.</p>
 <div class="mycontainer" style="height:500px;margin-top:60px">
    <div class="grid-3-1 text-center" style="color:#BFBFBF">
        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">

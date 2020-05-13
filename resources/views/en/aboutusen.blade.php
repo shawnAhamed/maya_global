@@ -61,7 +61,7 @@
 <section class="about-us">
     <div class="mycontainer">
         <div class="about-us-banner">
-            <p class="about-us-banner-text">Asking for help should be a dialogue, so we respond to each unique problem. We use the best tools of technology for efficiency and to drive sustainability. </p>
+            <p class="about-us-banner-text">To help everyone feel awesome, everyday.</p>
             <div style=" padding-top:60px">
                 <a class="bannerbtn" href="#foundernote" style="border-radius:8px;padding:28px 36px;background-color:#A64DA3;color: #FFFFFF;font-size: 20px;text-decoration: none;height: 80px;width: 210px">Founder’s Note</a>
                 <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 50px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left:30px;text-decoration: none;width: 210px">Our Services</a>
@@ -400,7 +400,7 @@
 <section class="pressmedia">
     <div class="mycontainer" style="text-align: center;margin-top:40px;padding-bottom:60px">
         <p class="" style="font-size: 48px;line-height:58px;color: #363636;padding-top:30px">Maya in News</p>
-        <p class="" style="font-size:24px;line-height:29px;color: #363636;margin-top: 20px">Maya and the team’s work has been featured in local and international media.</p>
+        <p class="" style="font-size:24px;line-height:29px;color: #363636;margin-top: 20px">We made headlines for many reasons on local and international medias. </p>
         <hr style="border:none;border-top: 1px solid #BFBFBF;margin-top:30px">
         <div class="mycontainer" style="height:182px;">
             <div class="grid-4-1 text-center">
