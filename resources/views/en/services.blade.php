@@ -60,7 +60,7 @@
 
 <section class="servicetag">
     <div class="mycontainer">
-        <p style="font-size: 90px;line-height: 110px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve over <u>3,000,000</u> people every month.</p>
+        <p style="font-size: 90px;line-height: 110px;font-weight: bold;color: #613ABD;padding-top: 60px">We serve millions every month, in different ways.</p>
         <hr style="border:5px solid #613ABD;margin-top:20px">
     </div>
 </section>
@@ -69,13 +69,13 @@
         <div class="grid-6-1 text-center">
             <img src="/img/servicepage/sbfly.png">
             <div class="servicedesc">
-            <p class="thumsubheader-service">Our bot instantly responses on basic health issues.</p>
+            <p class="thumsubheader-service">Our bot instantly responds to basic health issues.</p>
             </div>
         </div>
         <div class="grid-6-2 text-center">
             <img src="/img/servicepage/sqa.png">
             <div class="" style="margin-top: 43px">
-            <p class="thumsubheader-service">Ask question anonymously and get expert advice.</p>
+            <p class="thumsubheader-service">Ask questions anonymously and get expert advice.</p>
             </div>
         </div>
         <div class="grid-6-3 text-center">
@@ -155,7 +155,8 @@
         <h1 class="jonmayatext">Want to be a Maya Expert?</h1>
         <h1 class="jonmayatext2">It’s much more than just helping people.</h1>
         <div class="joinmayabtn" style="text-align: center;margin-top:50px;">
-            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;">Join Now!</a>
+            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;">Learn More</a>
+            <a href="https://maya.com.bd/become/mayaapa" class="joinmayabtntxt" style="text-decoration: none;margin-left:20px">Join Now!</a>
         </div>
     </div>
 

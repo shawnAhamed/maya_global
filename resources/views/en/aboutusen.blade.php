@@ -104,7 +104,7 @@
 
                         I found there to be a massive gap between the information, knowledge women needed in a country like Bangladesh, and how they could access it. The goal then was to provide high quality, locally relevant content to women, mostly mothers.<br><br>
 
-                        Our site was very bare bones, and on a whim, I added a very basic comments box on the homepage with the call to action, “Ask Maya Apa Anything”. We started to get a few queries every day, and this eventually led to us responding to 15-30 questions a day. I was routing these question to my friends who had relevant expertise.<br><br>
+                        Our site was very bare bones, and on a whim, I added a very basic comments box on the homepage with the call to action, “Ask Maya Apa Anything”. We started to get a few queries every day, and this eventually led to us responding to 15-30 questions a day. I was routing these questions to my friends who had relevant expertise.<br><br>
 
                         We realised quickly that this could be the ‘killer feature’ and in 2014, Maya pivoted to focus primarily on the ‘Maya’ services.<br><br>
                     </p>
@@ -122,8 +122,8 @@
 
 <section class="coveredcountry" style="margin-top:30px;">
     <div class="mycontainer">
-        <p class="heading-regular text-center">We are growing fast, everyday!</p>
-        <p class="sub-heading-regular text-center" style="">To be everyone’s wellbeing assistant across South Asia and the Middle East.</p>
+        <p class="heading-regular text-center">Our users are all over the world.</p>
+{{--        <p class="sub-heading-regular text-center" style="">To be everyone’s wellbeing assistant across South Asia and the Middle East.</p>--}}
     </div>
     <div class="mycontainer" style="height:410px;margin-top:60px">
         <div class="grid-3-1 text-center">
@@ -152,7 +152,7 @@
     <div class="mycontainer" style="text-align: center;margin-top:30px;padding-bottom:60px">
         <hr style="border: transparent;border-bottom: 1px dashed #707070;margin-top:30px;">
         <p class="" style="font-size: 48px;line-height: 36px;color: #363636;padding-top:30px">Want to be a Regional Partner?</p>
-        <p class="" style="font-size:24px;line-height:24px;color: #363636;margin-top: 20px">It’s much more than just helping people.</p>
+        <p class="" style="font-size:24px;line-height:24px;color: #363636;margin-top: 20px">Together, we can serve your communities </p>
         <div class="joinmayabtn" style="text-align: center;margin-top:40px;">
             <a href="mailto:kiosk@maya.com.bd" target="_blank" class="joinmayabtntxt" style="text-decoration: none;padding:15px 35px">Contact Us</a>
         </div>
@@ -167,35 +167,35 @@
 </section>
 
 
-<section class="teamsection" style="background-color:#F0F0F0;margin-top:-105px">
-    <div class="mycontainer text-center">
-        <div style="background-color:#F0F0F0;padding-top: 60px">
-        <p class="heading-regular text-center">None of us is as smart as all of us</p>
-        <p class="sub-heading-regular text-center" style="font-size: 30px;font-weight: 400;color: #363636">Maya is run by people who don’t lead by position or title rather by action and example.</p>
+{{--<section class="teamsection" style="background-color:#F0F0F0;margin-top:-105px">--}}
+{{--    <div class="mycontainer text-center">--}}
+{{--        <div style="background-color:#F0F0F0;padding-top: 60px">--}}
+{{--        <p class="heading-regular text-center">None of us is as smart as all of us</p>--}}
+{{--        <p class="sub-heading-regular text-center" style="font-size: 30px;font-weight: 400;color: #363636">Maya is run by people who don’t lead by position or title rather by action and example.</p>--}}
 
-        <p style="font-size: 24px;font-weight: bold;margin-top:60px">Front Line</p>
-            <hr style="border: transparent;border-bottom: 1px dashed #707070;">
-            <div class="mycontainer" style="height:500px;margin-top:60px">
-                <div class="grid-3-1 text-center">
-                    <img src="https://i.imgur.com/D1a1xiv.jpg" class="thumbimgleader">
+{{--        <p style="font-size: 24px;font-weight: bold;margin-top:60px">Front Line</p>--}}
+{{--            <hr style="border: transparent;border-bottom: 1px dashed #707070;">--}}
+{{--            <div class="mycontainer" style="height:500px;margin-top:60px">--}}
+{{--                <div class="grid-3-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/D1a1xiv.jpg" class="thumbimgleader">--}}
 
-                    <h1 class="thumbheader-team">Ivy Huq Russell</h1>
-                    <p class="thumsubheader-team">Founder & CEO</p>
-                    <p class="thumbdesc-leader">Before starting at Maya Ivy was a investment banker at Barclays Wealth</p>
-                </div>
-                <div class="grid-3-2 text-center">
-                    <img src="https://i.imgur.com/tkxFty2.jpg" class="thumbimgleader">
-                    <h1 class="thumbheader-team">Bickey Russell</h1>
-                    <p class="thumsubheader-team">Advisor</p>
-                    <p class="thumbdesc-leader">An Operation and Business lead at Google. Also the founding member of Kormo.</p>
-                </div>
-                <div class="grid-3-3 text-center">
-                    <img src="https://i.imgur.com/vV3pPz5.jpg" class="thumbimgleader">
-                    <h1 class="thumbheader-team">Rahat Ahmed</h1>
-                    <p class="thumsubheader-team">Investor</p>
-                    <p class="thumbdesc-leader">Founding Partner & CEO of Anchorless Bangladesh, a pioneer face in the startup space.</p>
-                </div>
-            </div>
+{{--                    <h1 class="thumbheader-team">Ivy Huq Russell</h1>--}}
+{{--                    <p class="thumsubheader-team">Founder & CEO</p>--}}
+{{--                    <p class="thumbdesc-leader">Before starting at Maya Ivy was a investment banker at Barclays Wealth</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-3-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/tkxFty2.jpg" class="thumbimgleader">--}}
+{{--                    <h1 class="thumbheader-team">Bickey Russell</h1>--}}
+{{--                    <p class="thumsubheader-team">Advisor</p>--}}
+{{--                    <p class="thumbdesc-leader">An Operation and Business lead at Google. Also the founding member of Kormo.</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-3-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/vV3pPz5.jpg" class="thumbimgleader">--}}
+{{--                    <h1 class="thumbheader-team">Rahat Ahmed</h1>--}}
+{{--                    <p class="thumsubheader-team">Investor</p>--}}
+{{--                    <p class="thumbdesc-leader">Founding Partner & CEO of Anchorless Bangladesh, a pioneer face in the startup space.</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 {{--            <div class="mycontainer" style="height:470px;margin-top:60px">--}}
 {{--                <div class="grid-3-1 text-center">--}}
@@ -218,183 +218,182 @@
 {{--                </div>--}}
 {{--            </div>--}}
 
-            <p style="font-size: 24px;font-weight: bold;margin-top:60px">Maya Warriors</p>
-            <hr style="border: transparent;border-bottom: 1px dashed #707070;">
+{{--            <p style="font-size: 24px;font-weight: bold;margin-top:60px">Maya Warriors</p>--}}
+{{--            <hr style="border: transparent;border-bottom: 1px dashed #707070;">--}}
 
-            <div class="mycontainer" style="height:360px;margin-top:60px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/Rjx0JNQ.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">M Nazimuddaula</p>
-                    <p class="thumsubheader-team">Product team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/C6CkaVU.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Angur Mahmud</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/dK8KGIi.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Nouroz Rahman</p>
-                    <p class="thumsubheader-team">Growth team</p>
-                 </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/YN40ZXi.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Monibur Rahman</p>
-                    <p class="thumsubheader-team">Accounts team</p>
-                </div>
-            </div>
-            <div class="mycontainer" style="height:420px;margin-top:60px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/WVkvLmS.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Shadman Soumik</p>
-                    <p class="thumsubheader-team">Product team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/hPJMlAu.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Fahmidul Hasan</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://maya.com.bd/img/footer/team/radh.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Radh Ahmed</p>
-                    <p class="thumsubheader-team">Growth team</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/FqUKmr6.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mukit Murshed</p>
-                    <p class="thumsubheader-team">Finance team</p>
-                </div>
-            </div>
-
-
-            <div class="mycontainer" style="height:420px;margin-top:30px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/JnDWNLN.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">A B M Faruque</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/ci86t6X.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Dr. Tangina</p>
-                    <p class="thumsubheader-team">Expert team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/zjNJ6TN.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Dr. Tahmina Rahman</p>
-                    <p class="thumsubheader-team">Expert team</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/Fvkm0z9.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Tarequzzaman Khan </p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-
-            </div>
+{{--            <div class="mycontainer" style="height:360px;margin-top:60px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/Rjx0JNQ.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">M Nazimuddaula</p>--}}
+{{--                    <p class="thumsubheader-team">Product team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/C6CkaVU.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Angur Mahmud</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/dK8KGIi.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Nouroz Rahman</p>--}}
+{{--                    <p class="thumsubheader-team">Growth team</p>--}}
+{{--                 </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/YN40ZXi.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Monibur Rahman</p>--}}
+{{--                    <p class="thumsubheader-team">Accounts team</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="mycontainer" style="height:420px;margin-top:60px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/WVkvLmS.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Shadman Soumik</p>--}}
+{{--                    <p class="thumsubheader-team">Product team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/hPJMlAu.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Fahmidul Hasan</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://maya.com.bd/img/footer/team/radh.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Radh Ahmed</p>--}}
+{{--                    <p class="thumsubheader-team">Growth team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/FqUKmr6.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Mukit Murshed</p>--}}
+{{--                    <p class="thumsubheader-team">Finance team</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 
-            <div class="mycontainer" style="height:420px;margin-top:30px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/n2Tg0sj.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mir Ershad Hossain</p>
-                    <p class="thumsubheader-team">Growth team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/zH6SsDJ.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Ashian Bin Mohid</p>
-                    <p class="thumsubheader-team">Business team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="thumbimgteam">
-                    <p class="thumbheader-team">Monzia Mushtaq</p>
-                    <p class="thumsubheader-team">Sr. Mental Health Expert</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/z0DqznP.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Samudra Roy</p>
-                    <p class="thumsubheader-team">Business team</p>
-                </div>
+{{--            <div class="mycontainer" style="height:420px;margin-top:30px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/JnDWNLN.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">A B M Faruque</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/ci86t6X.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Dr. Tangina</p>--}}
+{{--                    <p class="thumsubheader-team">Expert team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/zjNJ6TN.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Dr. Tahmina Rahman</p>--}}
+{{--                    <p class="thumsubheader-team">Expert team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/Fvkm0z9.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Tarequzzaman Khan </p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
 
-            </div>
-            <div class="mycontainer" style="height:420px;margin-top:30px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/W6gBram.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Dr. Sadia Islam</p>
-                    <p class="thumsubheader-team">Expert team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/qJtjUwR.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Andalib Hasan</p>
-                    <p class="thumsubheader-team">Growth team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/SfgvFuM.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Razib Hossain</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/dvSak6X.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Abdur Rahim</p>
-                    <p class="thumsubheader-team">Design team</p>
-                </div>
+{{--            </div>--}}
 
 
-            </div>
+{{--            <div class="mycontainer" style="height:420px;margin-top:30px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/n2Tg0sj.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Mir Ershad Hossain</p>--}}
+{{--                    <p class="thumsubheader-team">Growth team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/zH6SsDJ.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Ashian Bin Mohid</p>--}}
+{{--                    <p class="thumsubheader-team">Business team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://images-maya.s3.ap-southeast-1.amazonaws.com/images/userprofile/1586021550.jpeg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Monzia Mushtaq</p>--}}
+{{--                    <p class="thumsubheader-team">Sr. Mental Health Expert</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/z0DqznP.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Samudra Roy</p>--}}
+{{--                    <p class="thumsubheader-team">Business team</p>--}}
+{{--                </div>--}}
 
-            <div class="mycontainer" style="height:420px;margin-top:60px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/D6B9du8.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Joynta Shaha</p>
-                    <p class="thumsubheader-team">Business team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/OH3yi6U.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Nowrin Huda</p>
-                    <p class="thumsubheader-team">Admin team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/SKe0ahV.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Gulam Rahman</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/8JK7ECx.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Shawn Ahamed</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-            </div>
-
-
-            <div class="mycontainer" style="height:420px;margin-top:60px">
-                <div class="grid-4-1 text-center">
-                    <img src="https://i.imgur.com/py1ooSD.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Md. Mainuddin</p>
-                    <p class="thumsubheader-team">Engineering team</p>
-                </div>
-                <div class="grid-4-2 text-center">
-                    <img src="https://i.imgur.com/HEsFbpp.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Afrin Jahan</p>
-                    <p class="thumsubheader-team">Data team</p>
-                </div>
-                <div class="grid-4-3 text-center">
-                    <img src="https://i.imgur.com/oHkzdja.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Munira Hossain</p>
-                    <p class="thumsubheader-team">eCommerce team</p>
-                </div>
-                <div class="grid-4-4 text-center">
-                    <img src="https://i.imgur.com/LCl7Fvk.jpg" class="thumbimgteam">
-                    <p class="thumbheader-team">Mobasshera Siddiqua</p>
-                    <p class="thumsubheader-team">Data team</p>
-                </div>
-            </div>
+{{--            </div>--}}
+{{--            <div class="mycontainer" style="height:420px;margin-top:30px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/W6gBram.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Dr. Sadia Islam</p>--}}
+{{--                    <p class="thumsubheader-team">Expert team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/qJtjUwR.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Andalib Hasan</p>--}}
+{{--                    <p class="thumsubheader-team">Growth team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/SfgvFuM.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Razib Hossain</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/dvSak6X.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Abdur Rahim</p>--}}
+{{--                    <p class="thumsubheader-team">Design team</p>--}}
+{{--                </div>--}}
 
 
-        </div>
+{{--            </div>--}}
+
+{{--            <div class="mycontainer" style="height:420px;margin-top:60px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/D6B9du8.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Joynta Shaha</p>--}}
+{{--                    <p class="thumsubheader-team">Business team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/OH3yi6U.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Nowrin Huda</p>--}}
+{{--                    <p class="thumsubheader-team">Admin team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/SKe0ahV.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Gulam Rahman</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/8JK7ECx.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Shawn Ahamed</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+
+
+{{--            <div class="mycontainer" style="height:420px;margin-top:60px">--}}
+{{--                <div class="grid-4-1 text-center">--}}
+{{--                    <img src="https://i.imgur.com/py1ooSD.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Md. Mainuddin</p>--}}
+{{--                    <p class="thumsubheader-team">Engineering team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-2 text-center">--}}
+{{--                    <img src="https://i.imgur.com/HEsFbpp.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Afrin Jahan</p>--}}
+{{--                    <p class="thumsubheader-team">Data team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-3 text-center">--}}
+{{--                    <img src="https://i.imgur.com/oHkzdja.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Munira Hossain</p>--}}
+{{--                    <p class="thumsubheader-team">eCommerce team</p>--}}
+{{--                </div>--}}
+{{--                <div class="grid-4-4 text-center">--}}
+{{--                    <img src="https://i.imgur.com/LCl7Fvk.jpg" class="thumbimgteam">--}}
+{{--                    <p class="thumbheader-team">Mobasshera Siddiqua</p>--}}
+{{--                    <p class="thumsubheader-team">Data team</p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+
+
+{{--        </div>--}}
 
 
 
-        </div>
-    </div>
-</section>
+{{--        </div>--}}
+{{--</section>--}}
 
 
 <section class="pressmedia">

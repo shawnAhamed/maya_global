@@ -93,9 +93,9 @@
         </div>
         <div class="bannercontent">
             <div class="" style="height:680px;padding:30px 30px;width:570px;">
-                <p style="font-size:80px;line-height:97px;color: #fff;padding:20px 30px;">Everyone’s wellbeing assistant.</p>
-                <p style="font-size:30px;line-height:37px;color: #fff;padding:27px 30px">Maya is a knowledge sharing platform available on Android, iOS and Web.</p>
-                <div style="padding:15px 30px">
+                <p style="font-size:80px;line-height:97px;color: #fff;padding:15px 30px;">Everyone’s wellbeing assistant.</p>
+                <p style="font-size:30px;line-height:37px;color: #fff;padding:15px 30px">Maya connects you to doctors, mental health counsellors and wellbeing experts anonymously.</p>
+                <div style="padding:20px 30px">
                     <a class="bannerbtn" href="https://bit.ly/3dcqeJD" style="border-radius:8px;padding:28px 36px;background-color:#363636;color: #ffffff;font-size: 20px;text-decoration: none;height: 80px;width: 210px" target="_blank">Download App</a>
                     <a class="bannerbtn" href="/services" style="border-radius:8px;padding:28px 36px;background-color:#FFFFFF;color: #363636;font-size: 20px;margin-left: 20px;text-decoration: none">Our Services</a>
                 </div>
@@ -143,7 +143,7 @@
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom:0rem;">People Served</p>
                     <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10 million</p>
-                    <p style="font-size:16px;color: #363636">Since the inception, Maya is tirelessly serving its users.</p>
+                    <p style="font-size:16px;color: #363636">Since its inception, Maya is tirelessly serving its users.</p>
                 </div>
             </div>
 
@@ -276,7 +276,8 @@
 
 <section style="margin-top:60px;background-color:#314AC4;text-align: center;height:1920px" >
     <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
-    <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and many of them are really serious issues.</p>
+    <p style="font-size:24px;color: #FFFFFF;">
+        Our experts answer over 6,000 queries everyday and provide timely advice for urgent physical and mental issues, ranging from serious illnesses to everyday </p>
 <div class="mycontainer" style="height:500px;margin-top:60px">
    <div class="grid-3-1 text-center" style="color:#BFBFBF">
        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
