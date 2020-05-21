@@ -70,7 +70,7 @@
 
     <div style="height:100%; width:100%; overflow: hidden;margin-top:60px">
         <span class="tooltiptext" id="tooltip">Tooltip text</span>
-        <svg width="100%" height="100%" onmousemove="handleMouseMove(event)" onmouseout="mouseout(event)" viewBox="0 0 1140 668" preserveAspectRatio="xMaxYMax" xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        <svg width="100%" height="100%" onmousemove="handleMouseMove(event)" onmouseout="mouseout(event)" viewBox="0 0 1140 668" preserveAspectRatio="xMaxYMax" xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="margin-left: 60px">
 
             <defs>
                 <amcharts:ammap projection="mercator" leftLongitude="-169.6" topLatitude="83.68" rightLongitude="190.25" bottomLatitude="-55.55"></amcharts:ammap>

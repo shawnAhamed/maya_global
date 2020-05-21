@@ -275,8 +275,12 @@
 
 
 <section style="margin-top:60px;background-color:#314AC4;text-align: center;height:2030px" >
-    <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
-    <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and provide timely advice for physical and mental issues, ranging from urgent serious illnesses to the everyday common cold.</p>
+    <div class="mycontainer">
+        <p style="font-size: 60px;color: #FFFFFF;padding-top:60px">Accessible, Stigma-free, Private.</p>
+        <p style="font-size:24px;color: #FFFFFF;">Our experts answer over 6,000 queries everyday and provide timely advice for physical and mental issues, ranging from urgent serious illnesses to the everyday common cold.</p>
+
+    </div>
+
 <div class="mycontainer" style="height:500px;margin-top:60px">
    <div class="grid-3-1 text-center" style="color:#BFBFBF">
        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
@@ -297,13 +301,12 @@
         <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top: 30px">
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
-            <p class="storyuserlocation">New York, USA</p>
+            <p class="storyuserlocation">Poole, UK</p>
 
             <stoty style="text-align: center">
-                <p class="storytext">I feel like to kill myself. I want to talk but can’t express. Today is my birthday and I am continuously thinking,”why I was even born?”. I hate myself.
-                </p>
+                <p class="storytext">I am 35, can I still get vaccinated against cervical cancer? If so, how many doses are required?</p>
             </stoty>
-            <p class="storypostlang" style="">(Question originally posted in Bengali)</p>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>
     <div class="grid-3-3 text-center">
@@ -330,15 +333,13 @@
         </div>
     </div>
     <div class="grid-3-2 text-center">
-        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-155px">
+        <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-290px">
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
-            <p class="storyuserlocation">Poole, UK</p>
-
+            <p class="storyuserlocation">Dhaka, Bangladesh</p>
             <stoty style="text-align: center">
-                <p class="storytext">I am 35, can I still get vaccinated against cervical cancer? If so, how many doses are required?</p>
+                <p class="storytext">I’m a 17 year old male, but I like to pretend like I’m a girl. I love to wear girly dresses and makeup. I think my mind is like a girl. I can’t accept my body. I’ve tried to scratch my body with blades several times. Why I’m like that?</p>
             </stoty>
-            <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>
     <div class="grid-3-3 text-center">
