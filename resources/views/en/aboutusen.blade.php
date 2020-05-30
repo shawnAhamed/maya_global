@@ -421,7 +421,7 @@
                 <a href="http://www.brac.net/latest-news/item/691-maya-apa-help-at-hand-bangladesh-s-first-app-by-women-for-women" target="_blank"> <img src="https://i.imgur.com/sdI5KQG.png" style="margin-top:30px"></a>
             </div>
             <div class="grid-4-2 text-center">
-                <a href="http://ijd2016.tdg.ch/?chapitre=chmaya">  <img src="https://i.imgur.com/dUN2Zo0.png" style="margin-top:30px"></a>
+                <a href="http://ijd2016.tdg.ch/?chapitre=chmaya" target="_blank">  <img src="https://i.imgur.com/dUN2Zo0.png" style="margin-top:30px"></a>
             </div>
 
             <div class="grid-4-3 text-center" style="margin-top:30px">
@@ -437,7 +437,7 @@
                 <a href="https://futurestartup.com/2016/03/23/mayas-bold-mission/" target="_blank"> <img src="https://i.imgur.com/vx4lLLl.png" style="margin-top:30px"></a>
             </div>
             <div class="grid-4-2 text-center">
-                <a href="https://www.lefigaro.fr/secteur/high-tech/2016/06/24/32001-20160624ARTFIG00246-demande-a-soeur-maya.php">  <img src="https://i.imgur.com/xco3agB.png" style="margin-top:30px"></a>
+                <a href="https://www.lefigaro.fr/secteur/high-tech/2016/06/24/32001-20160624ARTFIG00246-demande-a-soeur-maya.php" target="_blank">  <img src="https://i.imgur.com/xco3agB.png" style="margin-top:30px"></a>
             </div>
 
             <div class="grid-4-3 text-center" style="margin-top:30px">
