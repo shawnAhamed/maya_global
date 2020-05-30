@@ -67,16 +67,16 @@
 
                     <li class="float-left dropdown">
                         <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
-                        <div>
-                            <div style="height: 10px"></div>
-                            <div class="dropdown-content" >
-                                <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 10px 0px;font-family:Hind Siliguri">বাংলা</a>
-                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
-                                <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>
-                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
-                                <a href="#"  style="font-size: 12px;color: #363636;padding:10px 15px 15px 10px;margin-bottom: 20px">Learn more about how we are expanding!</a>
-                            </div>
-                        </div>
+{{--                        <div>--}}
+{{--                            <div style="height: 10px"></div>--}}
+{{--                            <div class="dropdown-content" >--}}
+{{--                                <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 10px 0px;font-family:Hind Siliguri">বাংলা</a>--}}
+{{--                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">--}}
+{{--                                <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>--}}
+{{--                                <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">--}}
+{{--                                <a href="#"  style="font-size: 12px;color: #363636;padding:10px 15px 15px 10px;margin-bottom: 20px">Learn more about how we are expanding!</a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
                     </li>
                 </ul>
             </div>
@@ -288,9 +288,9 @@
             <p class="storyanonymous">Anonymous User</p>
         <p class="storyuserlocation">Dhaka, Bangladesh</p>
 
-        <stoty style="text-align: center">
+        <story style="text-align: center">
             <p class="storytext">I’m a married man and it’s been 10 months since I got married. We’re trying regularly to get pregnant but have not succeeded. It’ll be really helpful if you can provide some advice.</p>
-        </stoty>
+        </story>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
 
         </div>
@@ -303,9 +303,9 @@
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">Poole, UK</p>
 
-            <stoty style="text-align: center">
+            <story style="text-align: center">
                 <p class="storytext">I am 35, can I still get vaccinated against cervical cancer? If so, how many doses are required?</p>
-            </stoty>
+            </story>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>
@@ -314,9 +314,9 @@
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">Dhaka, Bangladesh</p>
-            <stoty style="text-align: center">
+            <story style="text-align: center">
                 <p class="storytext">I’m a 17 year old male, but I like to pretend like I’m a girl. I love to wear girly dresses and makeup. I think my mind is like a girl. I can’t accept my body. I’ve tried to scratch my body with blades several times. Why I’m like that?</p>
-            </stoty>
+            </story>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>
@@ -326,9 +326,9 @@
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">New Jersey, USA</p>
 
-            <stoty style="text-align: center">
-                <p class="storytext">My 5 year old daughter gets sever coughing fits in the middle of the night. She describes a crawling and itching sensation in her chest. What can I do to help her?</p>
-            </stoty>
+            <story style="text-align: center">
+                <p class="storytext">My 5 year old daughter gets severe coughing fits in the middle of the night. She describes a crawling and itching sensation in her chest. What can I do to help her?</p>
+            </story>
             <p class="storypostlang" style="margin-top:-15px">(Question originally posted in Bengali)</p>
         </div>
     </div>
@@ -336,10 +336,11 @@
         <div class="storyhover" style="background-color: #FFFFFF;border-radius:12px;margin-top:-290px">
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
-            <p class="storyuserlocation">Dhaka, Bangladesh</p>
-            <stoty style="text-align: center">
-                <p class="storytext">I’m a 17 year old male, but I like to pretend like I’m a girl. I love to wear girly dresses and makeup. I think my mind is like a girl. I can’t accept my body. I’ve tried to scratch my body with blades several times. Why I’m like that?</p>
-            </stoty>
+            <p class="storyuserlocation">New York, USA</p>
+            <story style="text-align: center">
+                <p class="storytext">I feel like to kill myself. I want to talk but can’t express. Today is my birthday and I am continuously thinking,”why I was even born?”. I hate myself.</p>
+            </story>
+            <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>
     <div class="grid-3-3 text-center">
@@ -347,9 +348,9 @@
             <i class="fas fa-user-circle"  style="font-size: 30px;margin-top:30px;color:#BFBFBF"></i>
             <p class="storyanonymous">Anonymous User</p>
             <p class="storyuserlocation">Dhaka, Bangladesh</p>
-            <stoty style="text-align: center">
+            <story style="text-align: center">
                 <p class="storytext">What’s mental illness? How do I know if I have that?</p>
-            </stoty>
+            </story>
             <p class="storypostlang">(Question originally posted in Bengali)</p>
         </div>
     </div>

@@ -40,16 +40,16 @@
                         </li>
                         <li class=" float-left dropdown">
                             <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
-                            <div>
-                                <div style="height: 10px"></div>
-                                <div class="dropdown-content" >
-                                    <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 10px 0px;font-family:Hind Siliguri">বাংলা</a>
-                                    <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
-                                    <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>
-                                    <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">
-                                    <a href="#"  style="font-size: 12px;color: #363636;padding:0px 15px 15px 0px">Learn more about how we are expanding!</a>
-                                </div>
-                            </div>
+{{--                            <div>--}}
+{{--                                <div style="height: 10px"></div>--}}
+{{--                                <div class="dropdown-content" >--}}
+{{--                                    <a href="/bn" style="font-size: 16px;color: #363636;padding:20px 20px 10px 0px;font-family:Hind Siliguri">বাংলা</a>--}}
+{{--                                    <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">--}}
+{{--                                    <a href="/en" style="font-size: 16px;color: #363636;font-weight: bold;padding:10px 20px 10px 0px">English</a>--}}
+{{--                                    <hr style="width: 110px;margin-top:0px;margin-bottom: 0px">--}}
+{{--                                    <a href="#"  style="font-size: 12px;color: #363636;padding:0px 15px 15px 0px">Learn more about how we are expanding!</a>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
                         </li>
                     </ul>
                 </div>
