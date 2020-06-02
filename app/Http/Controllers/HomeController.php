@@ -25,8 +25,9 @@ class HomeController extends Controller
         }
 
         dd($ip_address);
-        $json       = 'en';
+        $json       = file_get_contents("http://ipinfo.io/$ip_address");
         $details    = json_decode($json);
+        dd($details);
 
 
         return view('en.index');
