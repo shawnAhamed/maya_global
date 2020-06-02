@@ -23,8 +23,6 @@ class HomeController extends Controller
         {
             $ip_address = $_SERVER['REMOTE_ADDR'];
         }
-
-        dd($ip_address);
         $json       = file_get_contents("http://ipinfo.io/$ip_address");
         $details    = json_decode($json);
         dd($details);
