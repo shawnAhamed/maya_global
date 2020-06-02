@@ -10,6 +10,25 @@ use Illuminate\Support\Facades\Session;
 class HomeController extends Controller
 {
     public function index(){
+
+        if (!empty($_SERVER['HTTP_CLIENT_IP']))
+        {
+            $ip_address = $_SERVER['HTTP_CLIENT_IP'];
+        }
+        elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR']))
+        {
+            $ip_address = $_SERVER['HTTP_X_FORWARDED_FOR'];
+        }
+        else
+        {
+            $ip_address = $_SERVER['REMOTE_ADDR'];
+        }
+
+        dd($ip_address);
+        $json       = 'en';
+        $details    = json_decode($json);
+
+
         return view('en.index');
     }
 

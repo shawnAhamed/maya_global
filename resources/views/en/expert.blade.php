@@ -199,7 +199,6 @@
 
     </div>
 </section>
-
 <section class="appdownloadpart" style="background-color: #F0F0F0;margin-top:90px">
     <div class="mycontainer" style="padding:80px 0px">
         <div class="" >
@@ -211,13 +210,9 @@
             <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" target="_blank"><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
             <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8"  target="_blank"><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
-
-
     </div>
 
 </section>
-
-
 
 
 
