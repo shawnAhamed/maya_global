@@ -28,7 +28,7 @@ class HomeController extends Controller
         if(isset($details->country)){
             $country =$details->country;
             if($country =="BD"){
-                return redirect("maya.com.bd");
+                redirect("https://maya.com.bd");
             }
             else{
                 return view('en.index');
