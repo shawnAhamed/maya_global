@@ -41,7 +41,6 @@ class Setlocal
                 session()->put('locale', 'bn');
             }
             else{
-
                 \App::setlocale('en');
             }
         }

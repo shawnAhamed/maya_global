@@ -25,10 +25,18 @@ class HomeController extends Controller
         }
         $json       = file_get_contents("http://ipinfo.io/$ip_address");
         $details    = json_decode($json);
-        dd($details);
+        if(isset($details->country)){
+            $country =$details->country;
+            if($country =="BD"){
+                return redirect("maya.com.bd");
+            }
+            else{
+                return view('en.index');
+            }
+        }
 
 
-        return view('en.index');
+
     }
 
     public function expert(){
