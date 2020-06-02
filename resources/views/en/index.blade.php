@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <title>Maya | Everyone’s well-being assistant</title>
+    <title>Maya, everyone’s wellbeing assistant</title>
+    <meta name="description" content="Maya connects you to doctors, mental health counsellors and wellbeing experts anonymously">
 
 
     <!-- Start google analytics -->
@@ -41,32 +42,32 @@
     <div class="mycontainer">
         <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
-            <a href="/"><img src="../img/logo.svg" style="width:165px;height:80px; margin-top:20px;"></a>
+            <a href="/EN"><img src="../img/logo.svg" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
         <div class="menudiv">
             <div class="menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
-                        <a class="anchor active" href="/">Home<span class="sr-only">(current)</span></a>
+                        <a class="anchor active" href="/EN">Home<span class="sr-only">(current)</span></a>
                     </li>
 {{--                    <li class=" float-left">--}}
 {{--                        <a class="anchor" href="/corona">Coronavirus</a>--}}
 {{--                    </li>--}}
                     <li class=" float-left">
-                        <a class="anchor" href="/services">Services</a>
+                        <a class="anchor" href="/EN/services">Services</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/about">About</a>
+                        <a class="anchor" href="/EN/about">About</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/expert">Experts</a>
+                        <a class="anchor" href="/EN/expert">Experts</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="https://bit.ly/3dcqeJD"  style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
                     </li>
 
                     <li class="float-left dropdown">
-                        <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
+{{--                        <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>--}}
 {{--                        <div>--}}
 {{--                            <div style="height: 10px"></div>--}}
 {{--                            <div class="dropdown-content" >--}}
@@ -189,7 +190,7 @@
     <div class="mycontainer">
         <div class="mycontainer">
             <div class="mobilebanner">
-                <img src="https://i.imgur.com/BmmCsJt.jpg" class="img-fluid" style="">
+                <img src="https://i.imgur.com/BmmCsJt.jpg" class="img-fluid" style="border-radius:7px">
             </div>
             <div class="mobilebannercnt">
                 <div class="mobilebannercntblqt">
@@ -361,17 +362,7 @@
 
 <section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
-        <div class="mycontainer foterelement">
-           <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-
-            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
-            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
-            <p class="" style="font-size:20px;font-family: 'Montserrat';font-weight: 300">Maya is built with love at Dhaka, Bangladesh.</p>
-        </div>
+        @include('layout.footer')
     </div>
 </section>
 

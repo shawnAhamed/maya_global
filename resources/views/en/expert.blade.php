@@ -7,8 +7,29 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/style.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <title>Maya || Wellbeing Assistant</title>
+    <title>Maya experts</title>
     <!-- Start google analytics -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-24452987-1', 'auto');
+        ga('send', 'pageview');
+
+        @if(isset($source)&&!empty($source))
+        ga('send', 'event', { eventCategory: 'HomePage', eventAction: 'View', eventLabel: '<?php echo $source; ?>'});
+        window.location.replace('/');
+        @endif
+    </script>
+
     <script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
@@ -36,31 +57,31 @@
     <div class="mycontainer">
         <div style="height:120px;background-color:#314AC4">
         <div class="logodiv">
-            <a href="/"><img src="../img/logo.svg" style="width:165px;height:80px; margin-top:20px;"></a>
+            <a href="/EN"><img src="../img/logo.svg" style="width:165px;height:80px; margin-top:20px;"></a>
         </div>
         <div class="menudiv">
             <div class="menuitems">
                 <ul class="float-right" style="color: #ffffff">
                     <li class="float-left" >
-                        <a class="anchor" href="/">Home <span class="sr-only">(current)</span></a>
+                        <a class="anchor" href="/EN">Home <span class="sr-only">(current)</span></a>
                     </li>
 {{--                    <li class=" float-left">--}}
 {{--                        <a class="anchor" href="/corona">Coronavirus</a>--}}
 {{--                    </li>--}}
                     <li class=" float-left">
-                        <a class="anchor" href="/services">Services</a>
+                        <a class="anchor" href="/EN/services">Services</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor" href="/about">About</a>
+                        <a class="anchor" href="/EN/about">About</a>
                     </li>
                     <li class=" float-left">
-                        <a class="anchor active" href="/expert">Experts</a>
+                        <a class="anchor active" href="/EN/expert">Experts</a>
                     </li>
                     <li class=" float-left">
                         <a class="anchor" href="https://bit.ly/3dcqeJD" style="border: 1px solid #fff;border-radius:15px;padding: 5px 15px">Download</a>
                     </li>
                     <li class=" float-left dropdown">
-                        <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>
+{{--                        <a  style="padding:0px 0px 0px 15px;" onclick="navbarshow()" ><i class="fa fa-globe dropbtn" style="font-size: 30px"></i></a>--}}
 {{--                        <div>--}}
 {{--                            <div style="height: 10px"></div>--}}
 {{--                            <div class="dropdown-content" >--}}
@@ -187,8 +208,8 @@
                 Everything you ask is confidential.</h2>
         </div>
         <div class="downloadbtn">
-            <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
-            <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
+            <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" target="_blank"><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
+            <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8"  target="_blank"><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
 
 
@@ -202,23 +223,9 @@
 
 <section class="footer text-center" style="background-color:#314AC4 ">
     <div class="mycontainer" style="background-color: #314AC4">
-        <div class="mycontainer foterelement">
-            <a href="https://web.facebook.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"><span class="fa fa-facebook-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://g.page/mayaiswithyou?gm" style="text-decoration: none;color:inherit;"> <span class="fa fa-google socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://twitter.com/mayaiswithyou" style="text-decoration: none;color:inherit;"> <span class="fa fa-twitter socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://www.instagram.com/mayaiswithyou/" style="text-decoration: none;color:inherit;"> <span class="fa fa-instagram socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-            <a href="https://www.linkedin.com/company/maya-com-bd/" style="text-decoration: none;color:inherit;"> <span class="fa fa-linkedin-square socialicon" style="font-size:30px;font-weight:bold;height: 30px;width: 30px;padding:0px 20px"></span></a>
-
-            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight:500;padding-top:25px">Copyright: © 2014 - 2020 Maya Digital Health Pte. Ltd. All rights reserved.</p>
-            <p class="" style="font-size: 14px;font-family: 'Montserrat';font-weight: 300;">Maya and Maya logo, the logo icons are registered trademarks of Maya Digital Health Pte. Ltd.<br>Version: 3.0 - May 2020</p>
-            <p class="" style="font-size:20px;font-family: 'Montserrat';font-weight: 300">Maya is built with love at Dhaka, Bangladesh.</p>
-        </div>
+        @include('layout.footer')
     </div>
 </section>
-
-
-
-
 
 
 

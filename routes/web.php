@@ -24,11 +24,11 @@ Route::get('/test','HomeController@test');
 
 
 
-Route::get('/en','HomeController@index');
-Route::get('/en/corona','HomeController@corona');
-Route::get('/en/services','HomeController@services');
-Route::get('/en/about','HomeController@aboutus');
-Route::get('/en/expert','HomeController@expert');
+Route::get('/EN','HomeController@index');
+Route::get('/EN/corona','HomeController@corona');
+Route::get('/EN/services','HomeController@services');
+Route::get('/EN/about','HomeController@aboutus');
+Route::get('/EN/expert','HomeController@expert');
 
 
 
