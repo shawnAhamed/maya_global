@@ -23,20 +23,18 @@ class HomeController extends Controller
         {
             $ip_address = $_SERVER['REMOTE_ADDR'];
         }
-        $json       = file_get_contents("http://ipinfo.io/$ip_address");
+        $json       = file_get_contents("https://freegeoip.app/json/",$ip_address);
         $details    = json_decode($json);
-        if(isset($details->country)){
-            $country =$details->country;
-            if($country =="BD"){
-                return redirect()->to('https://maya.com.bd');
-            }
-            else{
-                return view('en.index');
-            }
-        }
-
-
-
+//        if(isset($details->country_code)) {
+//            $country = $details->country_code;
+//            if ($country == "BD") {
+//                return redirect()->to('https://maya.com.bd');
+//            } else {
+//                return view('en.index');
+//            }
+//            return view('en.index');
+//        }
+        return view('en.index');
     }
 
     public function expert(){
