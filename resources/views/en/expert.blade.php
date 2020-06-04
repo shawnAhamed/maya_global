@@ -103,7 +103,7 @@
 
 <section class="experts-banner">
     <div class="mycontainer">
-        <img src="/img/experts.png" style="margin-top: 30px;height: 700px;">
+        <img src="/img/experts.jpg" style="margin-top: 30px;height: 700px;">
     </div>
     <div class="mycontainer">
         <p class="experttagline">The People Powering Maya</p>
