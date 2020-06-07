@@ -133,8 +133,8 @@
                 <img src="../img/icon/qa.png" alt="" style="height: 72px;width: 90px;margin-top: 20px">
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom: 0rem;">Expert Answers</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px;margin-bottom:0rem;">200,000</p>
-                    <p style="font-size:16px;color: #363636">Expert answers per month on physical and mental health.</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px;margin-bottom:0rem;">Every 14 seconds</p>
+                    <p style="font-size:16px;color: #363636">Consultations are delivered every 14 seconds everyday, round the week.</p>
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@
                 <img src="../img/icon/health.png" alt="" style="height:90px;width:82px;">
                 <div class="caption">
                     <p style="font-size:20px;color: #363636; margin-bottom:0rem;">People Served</p>
-                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">10 million</p>
+                    <p style="font-size:40px;color: #363636;line-height:49px; margin-bottom:0rem;">7.5 million</p>
                     <p style="font-size:16px;color: #363636">Since its inception, Maya is using different channels to serve its users wherever they are.</p>
                 </div>
             </div>
@@ -155,16 +155,16 @@
 
 
 <section class="appshow" style="margin-top: 30px;">
-        <div class="" style="height:1100px;background-color:#F0F0F0;" >
+        <div class="" style="height:1045px;background-color:#F0F0F0;" >
             <div class="mycontainer">
-                <div style="background-color: #F0F0F0;height: 1100px;padding:40px 0px">
-                    <div class="mobilebanner text-center" style="margin-bottom:100px">
-                        <img src="https://i.imgur.com/JfDL4G5.png" class="img-fluid" style="height:864px;margin: 0 auto;margin-top:80px">
+                <div style="background-color: #F0F0F0;height: 1045px;padding:20px 0px 20px 0px">
+                    <div class="mobilebanner text-center" style="margin-bottom:40px">
+                        <img src="https://i.imgur.com/JfDL4G5.png" class="img-fluid" style="height:800px;margin: 0 auto;margin-top:80px">
                     </div>
                     <div class="mobilebannercnt" style="margin-top:80px">
                         <p style="font-size:64px;line-height:78px;color:#314AC4;font-weight:500;padding:40px 0px;">All in one app and it’s simple!</p>
                         <hr style="border: transparent;border-bottom: 1px dashed #707070;">
-                        <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>
+{{--                        <p style="font-size:30px;font-weight: 400;color: #A64DA3">3 million monthly active users</p>--}}
                         <span class="fa fa-star checked"></span>
                         <span class="fa fa-star checked"></span>
                         <span class="fa fa-star checked"></span>
