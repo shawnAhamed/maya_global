@@ -165,7 +165,7 @@
             <a  style="text-decoration: none;" href="https://bit.ly/3dcqeJD" ><img src="../img/icon/gplay.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a>
             <a  style="text-decoration: none;padding-left:10px" href="https://forms.gle/536kGauP6AaCyNvo8" ><img src="../img/icon/istore.png" style="padding-left:10px;padding-right:10px;max-height: 60px;width: 170px"></a><br>
         </div>
-        <p style="font-size:24px;line-height:29px;color:#BFB1E0">Join the largest community of Bangladeshis who are conscious about their health, lifestyle and wellbeing.</p>
+        <p style="font-size:24px;line-height:29px;color:#BFB1E0">Join the largest community of Bangladeshis who are conscious <br> about their health, lifestyle and wellbeing.</p>
 
     </div>
 
